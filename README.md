@@ -332,7 +332,7 @@ Want to contribute your own pre-built agent? Check out the [contribution guideli
 - **[Shandu](https://github.com/jolovicdev/shandu)** – LLM-based research system that automates source evaluation and knowledge synthesis. ![GitHub stars](https://img.shields.io/github/stars/jolovicdev/shandu)
 - **[Local Deep Research](https://github.com/LearningCircuit/local-deep-research)** – Privacy-focused research assistant performing deep analysis using multiple LLMs and web searches with local execution capability ![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social)
 - **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** – Open deep research agent producing detailed reports with citations, using Plan-and-Solve and RAG techniques ![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)
-
+- **[Curie - Research Experimentation Agent](https://github.com/Just-Curieous/Curie)** - AI research agent to automate rigorous scientific experimentation and produce meaningful empirical results, driving discovery across ML, systems & more. ![GitHub stars](https://img.shields.io/github/stars/Just-Curieous/Curie?style=social)
 
 ### Finance & Business
 - [AI Case Study Analyzer](https://github.com/muratcankoylan/AI-Investigator) - Discovers and analyzes enterprise AI case studies. ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator)

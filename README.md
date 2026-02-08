@@ -1169,6 +1169,7 @@ Access the official LangSmith platform documentation:
 | [cryxnet/deepmcpagent](https://github.com/cryxnet/deepmcpagent) | MCP-first agent framework (LangChain/LangGraph) over HTTP/SSE | ![GitHub stars](https://img.shields.io/github/stars/cryxnet/deepmcpagent?style=social) |
 | [Azzedde/brainstormers](https://github.com/Azzedde/brainstormers) | Curated chains for structured brainstorming | ![GitHub stars](https://img.shields.io/github/stars/Azzedde/brainstormers?style=social) |
 | [zamalali/langchain-code](https://github.com/zamalali/langchain-code) | Multi-LLM CLI tool with ReAct & Deep modes for code analysis, feature implementation, and bug fixing | ![GitHub stars](https://img.shields.io/github/stars/zamalali/langchain-code?style=social) |
+| [Mediaeater/swarm.at](https://github.com/Mediaeater/swarm-at-ledger) | Settlement protocol that hash-chains every LangGraph node execution into an immutable audit ledger with trust-tiered agent identities | ![GitHub stars](https://img.shields.io/github/stars/Mediaeater/swarm.at?style=social) |
 
 <div align="center">
 

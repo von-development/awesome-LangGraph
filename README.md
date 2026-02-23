@@ -1092,6 +1092,8 @@ Access the official LangSmith platform documentation:
 
 ## 🤖 Coding/Dev Agents
 
+- [GitHub Trending Analyzer](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer) - Automated fetching and categorization of GitHub Trending projects with strategic trend analysis. Essential for staying current in the Agentic era.
+
 </div>
 
 *AI agents specifically designed for software development, code generation, and programming assistance*

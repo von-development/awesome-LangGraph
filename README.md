@@ -1283,6 +1283,21 @@ Access the official LangSmith platform documentation:
 
 <div align="center">
 
+## 🌍 Security & Governance
+
+</div>
+
+*Action verification, provenance tracking, fail-closed mechanisms, prompt injection protection*
+
+| Project | Description | GitHub Stars |
+|---|---|---|
+| [pic-standard](https://github.com/madeinpluto/pic-standard) | Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence). | ![GitHub stars](https://img.shields.io/github/stars/madeinpluto/pic-standard?style=social) |
+
+
+
+
+<div align="center">
+
 ## 🌍 Sustainability
 
 </div>

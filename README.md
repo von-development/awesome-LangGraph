@@ -1241,6 +1241,7 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
+| [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) | A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes | ![GitHub stars](https://img.shields.io/github/stars/GiovanniPasq/agentic-rag-for-dummies?style=social) |
 | [Goodnight77/Just-RAG](https://github.com/Goodnight77/Just-RAG) | Agentic RAG with LangGraph + Qdrant | ![GitHub stars](https://img.shields.io/github/stars/Goodnight77/Just-RAG?style=social) |
 | [IlyaRice/RAG-Challenge-2](https://github.com/IlyaRice/RAG-Challenge-2) | RAG with custom PDF parsing, parent retrieval, and reranking | ![GitHub stars](https://img.shields.io/github/stars/IlyaRice/RAG-Challenge-2?style=social) |
 | [TAMustafa/Local_Chat_RAG](https://github.com/TAMustafa/Local_Chat_RAG) | Local RAG chat (Ollama) with sources and modern UI | ![GitHub stars](https://img.shields.io/github/stars/TAMustafa/Local_Chat_RAG?style=social) |

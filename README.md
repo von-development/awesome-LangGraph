@@ -1292,7 +1292,7 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [pic-standard](https://github.com/madeinpluto/pic-standard) | Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence). | ![GitHub stars](https://img.shields.io/github/stars/madeinpluto/pic-standard?style=social) |
+| [pic-standard](https://github.com/madeinplutofabio/pic-standard) | Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence). | ![GitHub stars](https://img.shields.io/github/stars/madeinplutofabio/pic-standard?style=social) |
 
 
 

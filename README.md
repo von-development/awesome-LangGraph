@@ -1293,6 +1293,7 @@ Access the official LangSmith platform documentation:
 | Project | Description | GitHub Stars |
 |---|---|---|
 | [pic-standard](https://github.com/madeinpluto/pic-standard) | Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence). | ![GitHub stars](https://img.shields.io/github/stars/madeinpluto/pic-standard?style=social) |
+| [Headless Oracle](https://headlessoracle.com/v5/demo?mic=XNYS) | Fail-closed market status MCP server that acts as a deterministic circuit breaker to prevent durable execution loops when traditional exchanges are closed. | ![GitHub stars](https://img.shields.io/github/stars/LembaGang/dst-exploit-demo?style=social) |
 
 
 

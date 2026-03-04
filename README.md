@@ -1191,6 +1191,7 @@ Access the official LangSmith platform documentation:
 | [sagar-n/deepagents](https://github.com/sagar-n/deepagents) | Stock research assistant with specialized analysis agents | ![GitHub stars](https://img.shields.io/github/stars/sagar-n/deepagents?style=social) |
 | [AKMessi/AI-IPO-Analyst](https://github.com/AKMessi/AI-IPO-Analyst) | IPO analysis agent with PDF parsing and market data enrichment | ![GitHub stars](https://img.shields.io/github/stars/AKMessi/AI-IPO-Analyst?style=social) |
 | [johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction) | Bank statement parsing + personal finance analysis with multi-agent workflow | ![GitHub stars](https://img.shields.io/github/stars/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction?style=social) |
+| [OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp) | DeFi MCP server with 12 tools: real-time crypto prices, multi-chain wallet balances (9 chains), DEX quotes via Jupiter and Li.Fi, and token search across 275+ assets | ![GitHub stars](https://img.shields.io/github/stars/OzorOwn/defi-mcp?style=social) |
 
 <div align="center">
 

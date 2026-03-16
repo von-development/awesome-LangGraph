@@ -1177,6 +1177,7 @@ Access the official LangSmith platform documentation:
 | [zamalali/langchain-code](https://github.com/zamalali/langchain-code) | Multi-LLM CLI tool with ReAct & Deep modes for code analysis, feature implementation, and bug fixing | ![GitHub stars](https://img.shields.io/github/stars/zamalali/langchain-code?style=social) |
 | [Mediaeater/swarm.at](https://github.com/Mediaeater/swarm-at-ledger) | Settlement protocol that hash-chains every LangGraph node execution into an immutable audit ledger with trust-tiered agent identities | ![GitHub stars](https://img.shields.io/github/stars/Mediaeater/swarm.at?style=social) |
 | [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
+| [tb8412/qae-langgraph-example](https://github.com/tb8412/qae-langgraph-example) | Deterministic pre-execution safety certification for LangGraph agents with auditable certificates and constraint-based routing | ![GitHub stars](https://img.shields.io/github/stars/tb8412/qae-langgraph-example?style=social) |
 
 <div align="center">
 

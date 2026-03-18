@@ -1437,3 +1437,7 @@ We welcome additions and fixes! Please read the **[Contributing Guide](CONTRIBUT
 
 Special thanks to the [@langchain-ai](https://github.com/langchain-ai) team for building an outstanding framework and ecosystem that enables developers to create powerful AI applications.
 
+
+
+## Tools
+- [Arch Tools](https://archtools.dev) - 58 production API tools for AI agents with x402 USDC payments on 15+ chains. Web scraping, AI generation, crypto, OCR, MCP compatible. Patent-pending agent auth. ([GitHub](https://github.com/Deesmo/Arch-AI-Tools))

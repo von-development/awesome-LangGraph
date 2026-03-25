@@ -1368,6 +1368,7 @@ Access the official LangSmith platform documentation:
 - **[Agent Observability & Evaluations](https://academy.langchain.com/courses/intro-to-langsmith)** — Tracing, testing, evals, prompt iteration, human feedback, production monitoring.
 
 ### Community Courses
+- [SkillFlow](https://github.com/rafsilva85/skillflow-mcp-server) - Open marketplace for AI agent skills and MCP servers. Browse, discover, and install 500+ skills.
 - **[LangGraph — Develop LLM-Powered AI Agents (Udemy)](https://www.udemy.com/course/langgraph/)** — Practical LangGraph agent patterns. Instructor: [emarco177](https://github.com/emarco177).
 
 

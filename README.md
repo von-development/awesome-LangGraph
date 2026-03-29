@@ -1297,6 +1297,7 @@ Access the official LangSmith platform documentation:
 |---|---|---|
 | [LembaGang/headless-oracle-v5](https://github.com/LembaGang/headless-oracle-v5) | Fail-closed market status MCP. Pauses stateful LangGraph agents from entering retry loops during closed markets or DST shifts. | ![GitHub stars](https://img.shields.io/github/stars/LembaGang/headless-oracle-v5?style=social) |
 | [pic-standard](https://github.com/madeinplutofabio/pic-standard) | Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence). | ![GitHub stars](https://img.shields.io/github/stars/madeinplutofabio/pic-standard?style=social) |
+| [sidclawhq/platform](https://github.com/sidclawhq/platform) | Approval and audit layer for LangGraph agents. Intercepts tool calls, evaluates them against policies, and holds them for human review before execution. Hash-chain audit trail, 13 framework integrations. Apache 2.0. | ![GitHub stars](https://img.shields.io/github/stars/sidclawhq/platform?style=social) |
 
 
 

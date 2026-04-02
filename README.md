@@ -598,6 +598,7 @@ Access the official LangSmith platform documentation:
 <div align="center">
 
 ## 🟢 Official LangGraph Projects 🦜
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 </div>
 

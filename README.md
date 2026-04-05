@@ -1415,6 +1415,7 @@ Access the official LangSmith platform documentation:
 | Name | Type | Description |
 |---|---|---|
 | [LangChain Community](https://www.langchain.com/join-community) | Official Community | Central hub for announcements, discussions, events, and channels to connect with the LangChain/LangGraph ecosystem. |
+| [LangChain Forum](https://forum.langchain.com/) | Forum | Community discussion forum for asking questions, sharing ideas, and connecting with other LangChain and LangGraph builders. |
 
 <div align="center">
 
@@ -1437,4 +1438,3 @@ We welcome additions and fixes! Please read the **[Contributing Guide](CONTRIBUT
 </div>
 
 Special thanks to the [@langchain-ai](https://github.com/langchain-ai) team for building an outstanding framework and ecosystem that enables developers to create powerful AI applications.
-

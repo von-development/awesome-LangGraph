@@ -41,6 +41,7 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [📊 Data Platforms](#-data-platforms)
   - [🧮 Data Science](#-data-science)
   - [🛠️ Developer Tools](#️-developer-tools)
+  - [📦 Packages](#-packages)
   - [💰 Finance \& Fintech](#-finance--fintech)
   - [🎯 Marketing](#-marketing)
   - [🎥 Media \& Podcasts](#-media--podcasts)
@@ -1155,7 +1156,18 @@ Browse the full template catalog here:
 | [rsrini7/mermaid2gif](https://github.com/rsrini7/mermaid2gif) | Tool for converting Mermaid diagrams to animated GIFs with optional AI-powered diagram generation | ![GitHub stars](https://img.shields.io/github/stars/rsrini7/mermaid2gif?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/rsrini7/mermaid2gif) |
 | [zamalali/langchain-code](https://github.com/zamalali/langchain-code) | Multi-LLM CLI tool with ReAct & Deep modes for code analysis, feature implementation, and bug fixing | ![GitHub stars](https://img.shields.io/github/stars/zamalali/langchain-code?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/langchain-code) |
 | [Mediaeater/swarm.at](https://github.com/Mediaeater/swarm-at-ledger) | Settlement protocol that hash-chains every LangGraph node execution into an immutable audit ledger with trust-tiered agent identities | ![GitHub stars](https://img.shields.io/github/stars/Mediaeater/swarm.at?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Mediaeater/swarm.at) |
-| [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
+
+<div align="center">
+
+## 📦 Packages
+
+</div>
+
+*Installable packages and libraries for extending LangGraph workflows*
+
+| Package | Description | Registry |
+|---|---|---|
+| [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions. | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
 
 <div align="center">
 

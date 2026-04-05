@@ -1028,8 +1028,8 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | AI-powered multi-agent system for medical diagnosis, research, and patient interaction, featuring LLMs, RAG, and human-in-the-loop validation | ![GitHub stars](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=social) |
-| [ArcInstitute/SRAgent](https://github.com/ArcInstitute/SRAgent) | Multi-agent framework for automating genomic research and RNA sequencing workflows from scientific databases | ![GitHub stars](https://img.shields.io/github/stars/ArcInstitute/SRAgent?style=social) |
+| [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | AI-powered multi-agent system for medical diagnosis, research, and patient interaction, featuring LLMs, RAG, and human-in-the-loop validation | ![GitHub stars](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/souvikmajumder26/Multi-Agent-Medical-Assistant) |
+| [ArcInstitute/SRAgent](https://github.com/ArcInstitute/SRAgent) | Multi-agent framework for automating genomic research and RNA sequencing workflows from scientific databases | ![GitHub stars](https://img.shields.io/github/stars/ArcInstitute/SRAgent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ArcInstitute/SRAgent) |
 
 <div align="center">
 
@@ -1041,12 +1041,12 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) | Autonomous agent for automating web tasks and research | ![GitHub stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=social) |
-| [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) | Web automation agent with behavioral caching, DOM fidelity, and success pattern recording | ![GitHub stars](https://img.shields.io/github/stars/esinecan/agentic-ai-browser?style=social) |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Library for AI agents to control websites and automate tasks | ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social) |
-| [stanford-mast/blast](https://github.com/stanford-mast/blast) | High-performance serving engine for browser-augmented LLM applications with auto-scaling and OpenAI-compatible API | ![GitHub stars](https://img.shields.io/github/stars/stanford-mast/blast?style=social) |
-| [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) | Visual editor for building scraping workflows with LangGraph, bulk scraping, and live streaming | ![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/scrapecraft?style=social) |
-| [nickhawn/news-agent](https://github.com/nickhawn/news-agent) | News crawler that personalizes daily summaries with Tavily and memory | ![GitHub stars](https://img.shields.io/github/stars/nickhawn/news-agent?style=social) |
+| [hrithikkoduri/WebRover](https://github.com/hrithikkoduri/WebRover) | Autonomous agent for automating web tasks and research | ![GitHub stars](https://img.shields.io/github/stars/hrithikkoduri/WebRover?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/hrithikkoduri/WebRover) |
+| [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) | Web automation agent with behavioral caching, DOM fidelity, and success pattern recording | ![GitHub stars](https://img.shields.io/github/stars/esinecan/agentic-ai-browser?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/esinecan/agentic-ai-browser) |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Library for AI agents to control websites and automate tasks | ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/browser-use/browser-use) |
+| [stanford-mast/blast](https://github.com/stanford-mast/blast) | High-performance serving engine for browser-augmented LLM applications with auto-scaling and OpenAI-compatible API | ![GitHub stars](https://img.shields.io/github/stars/stanford-mast/blast?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/stanford-mast/blast) |
+| [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) | Visual editor for building scraping workflows with LangGraph, bulk scraping, and live streaming | ![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/scrapecraft?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ScrapeGraphAI/scrapecraft) |
+| [nickhawn/news-agent](https://github.com/nickhawn/news-agent) | News crawler that personalizes daily summaries with Tavily and memory | ![GitHub stars](https://img.shields.io/github/stars/nickhawn/news-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/nickhawn/news-agent) |
 
 <div align="center">
 
@@ -1058,8 +1058,8 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [oba2311/analyst_agent](https://github.com/oba2311/analyst_agent) | Marketing analysis agent with trend/sentiment analysis and report generation | ![GitHub stars](https://img.shields.io/github/stars/oba2311/analyst_agent?style=social) |
-| [muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | Agent that discovers and analyzes enterprise AI case studies | ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator?style=social) |
+| [oba2311/analyst_agent](https://github.com/oba2311/analyst_agent) | Marketing analysis agent with trend/sentiment analysis and report generation | ![GitHub stars](https://img.shields.io/github/stars/oba2311/analyst_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/oba2311/analyst_agent) |
+| [muratcankoylan/AI-Investigator](https://github.com/muratcankoylan/AI-Investigator) | Agent that discovers and analyzes enterprise AI case studies | ![GitHub stars](https://img.shields.io/github/stars/muratcankoylan/AI-Investigator?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/muratcankoylan/AI-Investigator) |
 
 
 <div align="center">
@@ -1072,9 +1072,9 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | GUI for ChatGPT/LLMs with agent support, web search, and knowledge base features | ![GitHub stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social) |
-| [CopilotKit/open-multi-agent-canvas](https://github.com/CopilotKit/open-multi-agent-canvas) | Multi-agent chat interface with travel/research examples and MCP servers | ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/open-multi-agent-canvas?style=social) |
-| [teddynote-lab/LangConnect-Client](https://github.com/teddynote-lab/LangConnect-Client) | Streamlit RAG client with document management, semantic/hybrid search, and MCP integration | ![GitHub stars](https://img.shields.io/github/stars/teddynote-lab/LangConnect-Client?style=social) |
+| [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | GUI for ChatGPT/LLMs with agent support, web search, and knowledge base features | ![GitHub stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/GaiZhenbiao/ChuanhuChatGPT) |
+| [CopilotKit/open-multi-agent-canvas](https://github.com/CopilotKit/open-multi-agent-canvas) | Multi-agent chat interface with travel/research examples and MCP servers | ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/open-multi-agent-canvas?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/CopilotKit/open-multi-agent-canvas) |
+| [teddynote-lab/LangConnect-Client](https://github.com/teddynote-lab/LangConnect-Client) | Streamlit RAG client with document management, semantic/hybrid search, and MCP integration | ![GitHub stars](https://img.shields.io/github/stars/teddynote-lab/LangConnect-Client?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/teddynote-lab/LangConnect-Client) |
 
 <div align="center">
 
@@ -1086,7 +1086,7 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [eosho/ARMA](https://github.com/eosho/ARMA) | Azure Resource Management Assistant with multi-agent architecture for resource provisioning and ARM template validation | ![GitHub stars](https://img.shields.io/github/stars/eosho/ARMA?style=social) |
+| [eosho/ARMA](https://github.com/eosho/ARMA) | Azure Resource Management Assistant with multi-agent architecture for resource provisioning and ARM template validation | ![GitHub stars](https://img.shields.io/github/stars/eosho/ARMA?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/eosho/ARMA) |
 
 <div align="center">
 
@@ -1098,9 +1098,9 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [KodyKendall/LlamaBot](https://github.com/KodyKendall/LlamaBot) | Web development coding agent for creating HTML/CSS/JavaScript projects and business landing pages | ![GitHub stars](https://img.shields.io/github/stars/KodyKendall/LlamaBot?style=social) |
-| [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent) | Development tool that uses LangGraph agents to aid coding workflow with natural language | ![GitHub stars](https://img.shields.io/github/stars/AbhinavTheDev/coding-agent?style=social) |
-| [langtalks/swe-agent](https://github.com/langtalks/swe-agent) | Software engineering multi-agent system with researcher and developer agents for automated code implementation | ![GitHub stars](https://img.shields.io/github/stars/langtalks/swe-agent?style=social) |
+| [KodyKendall/LlamaBot](https://github.com/KodyKendall/LlamaBot) | Web development coding agent for creating HTML/CSS/JavaScript projects and business landing pages | ![GitHub stars](https://img.shields.io/github/stars/KodyKendall/LlamaBot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/KodyKendall/LlamaBot) |
+| [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent) | Development tool that uses LangGraph agents to aid coding workflow with natural language | ![GitHub stars](https://img.shields.io/github/stars/AbhinavTheDev/coding-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/AbhinavTheDev/coding-agent) |
+| [langtalks/swe-agent](https://github.com/langtalks/swe-agent) | Software engineering multi-agent system with researcher and developer agents for automated code implementation | ![GitHub stars](https://img.shields.io/github/stars/langtalks/swe-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/langtalks/swe-agent) |
 
 <div align="center">
 
@@ -1112,11 +1112,11 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [kargarisaac/telegram_link_summarizer_agent](https://github.com/kargarisaac/telegram_link_summarizer_agent) | Telegram bot that summarizes shared links using LangGraph and multi-tool extraction | ![GitHub stars](https://img.shields.io/github/stars/kargarisaac/telegram_link_summarizer_agent?style=social) |
-| [gotohuman/gotohuman-langgraph-lead-example](https://github.com/gotohuman/gotohuman-langgraph-lead-example) | Sales email drafting with human-in-the-loop review | ![GitHub stars](https://img.shields.io/github/stars/gotohuman/gotohuman-langgraph-lead-example?style=social) |
-| [multinear-demo/demo-bank-support-lc-py](https://github.com/multinear-demo/demo-bank-support-lc-py) | Banking support chatbot with RAG to reduce hallucinations | ![GitHub stars](https://img.shields.io/github/stars/multinear-demo/demo-bank-support-lc-py?style=social) |
-| [tilotech/identity-rag-customer-insights-chatbot](https://github.com/tilotech/identity-rag-customer-insights-chatbot) | Customer insights chatbot that creates golden records for context-aware replies | ![GitHub stars](https://img.shields.io/github/stars/tilotech/identity-rag-customer-insights-chatbot?style=social) |
-| [raminmohammadi/ai-agent-smart-assist](https://github.com/raminmohammadi/ai-agent-smart-assist) | Knowledge base + classification + Q&A for support teams (FAISS + RAG) | ![GitHub stars](https://img.shields.io/github/stars/raminmohammadi/ai-agent-smart-assist?style=social) |
+| [kargarisaac/telegram_link_summarizer_agent](https://github.com/kargarisaac/telegram_link_summarizer_agent) | Telegram bot that summarizes shared links using LangGraph and multi-tool extraction | ![GitHub stars](https://img.shields.io/github/stars/kargarisaac/telegram_link_summarizer_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/kargarisaac/telegram_link_summarizer_agent) |
+| [gotohuman/gotohuman-langgraph-lead-example](https://github.com/gotohuman/gotohuman-langgraph-lead-example) | Sales email drafting with human-in-the-loop review | ![GitHub stars](https://img.shields.io/github/stars/gotohuman/gotohuman-langgraph-lead-example?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/gotohuman/gotohuman-langgraph-lead-example) |
+| [multinear-demo/demo-bank-support-lc-py](https://github.com/multinear-demo/demo-bank-support-lc-py) | Banking support chatbot with RAG to reduce hallucinations | ![GitHub stars](https://img.shields.io/github/stars/multinear-demo/demo-bank-support-lc-py?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/multinear-demo/demo-bank-support-lc-py) |
+| [tilotech/identity-rag-customer-insights-chatbot](https://github.com/tilotech/identity-rag-customer-insights-chatbot) | Customer insights chatbot that creates golden records for context-aware replies | ![GitHub stars](https://img.shields.io/github/stars/tilotech/identity-rag-customer-insights-chatbot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/tilotech/identity-rag-customer-insights-chatbot) |
+| [raminmohammadi/ai-agent-smart-assist](https://github.com/raminmohammadi/ai-agent-smart-assist) | Knowledge base + classification + Q&A for support teams (FAISS + RAG) | ![GitHub stars](https://img.shields.io/github/stars/raminmohammadi/ai-agent-smart-assist?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/raminmohammadi/ai-agent-smart-assist) |
 
 
 
@@ -1130,8 +1130,8 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [starpig1129/AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/AI-Data-Analysis-MultiAgent) | Multi-agent data analysis with visualization and report generation | ![GitHub stars](https://img.shields.io/github/stars/starpig1129/AI-Data-Analysis-MultiAgent?style=social) |
-| [project-ryoma/ryoma](https://github.com/project-ryoma/ryoma) | Data agent framework for analysis, engineering, and visualization with LangChain integration | ![GitHub stars](https://img.shields.io/github/stars/project-ryoma/ryoma?style=social) |
+| [starpig1129/AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/AI-Data-Analysis-MultiAgent) | Multi-agent data analysis with visualization and report generation | ![GitHub stars](https://img.shields.io/github/stars/starpig1129/AI-Data-Analysis-MultiAgent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/starpig1129/AI-Data-Analysis-MultiAgent) |
+| [project-ryoma/ryoma](https://github.com/project-ryoma/ryoma) | Data agent framework for analysis, engineering, and visualization with LangChain integration | ![GitHub stars](https://img.shields.io/github/stars/project-ryoma/ryoma?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/project-ryoma/ryoma) |
 
 <div align="center">
 
@@ -1143,9 +1143,9 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | AI-powered data science team for common tasks | ![GitHub stars](https://img.shields.io/github/stars/business-science/ai-data-science-team?style=social) |
-| [leockl/sklearn-diagnose](https://github.com/leockl/sklearn-diagnose) | AI-powered diagnostic tool for analyzing and debugging scikit-learn machine learning models | ![GitHub stars](https://img.shields.io/github/stars/leockl/sklearn-diagnose?style=social) |
-| [RichardKaranuMbuti/ScienceBridge](https://github.com/RichardKaranuMbuti/ScienceBridge) | Scientific research accelerator that analyzes datasets, generates hypotheses, and validates them through code | ![GitHub stars](https://img.shields.io/github/stars/RichardKaranuMbuti/ScienceBridge?style=social) |
+| [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | AI-powered data science team for common tasks | ![GitHub stars](https://img.shields.io/github/stars/business-science/ai-data-science-team?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/business-science/ai-data-science-team) |
+| [leockl/sklearn-diagnose](https://github.com/leockl/sklearn-diagnose) | AI-powered diagnostic tool for analyzing and debugging scikit-learn machine learning models | ![GitHub stars](https://img.shields.io/github/stars/leockl/sklearn-diagnose?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/leockl/sklearn-diagnose) |
+| [RichardKaranuMbuti/ScienceBridge](https://github.com/RichardKaranuMbuti/ScienceBridge) | Scientific research accelerator that analyzes datasets, generates hypotheses, and validates them through code | ![GitHub stars](https://img.shields.io/github/stars/RichardKaranuMbuti/ScienceBridge?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/RichardKaranuMbuti/ScienceBridge) |
 
 
 <div align="center">
@@ -1158,24 +1158,24 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [akamai/patchdiff-ai](https://github.com/akamai/patchdiff-ai) | AI-powered patch diff analysis tool for automated code change review and security analysis | ![GitHub stars](https://img.shields.io/github/stars/akamai/patchdiff-ai?style=social) |
-| [sanjeed5/ai-conversation-simulator](https://github.com/sanjeed5/ai-conversation-simulator) | Simulated conversations to test assistants; LangSmith integration | ![GitHub stars](https://img.shields.io/github/stars/sanjeed5/ai-conversation-simulator?style=social) |
-| [DiTo97/deepagents-backends](https://github.com/DiTo97/deepagents-backends) | Backend services and infrastructure for deploying and managing Deep Agents applications | ![GitHub stars](https://img.shields.io/github/stars/DiTo97/deepagents-backends?style=social) |
-| [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) | Toolkit for deploying agents with FastAPI and Streamlit | ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=social) |
-| [HyperbolicLabs/Hyperbolic-AgentKit](https://github.com/HyperbolicLabs/Hyperbolic-AgentKit) | Agent kit with blockchain/compute features | ![GitHub stars](https://img.shields.io/github/stars/HyperbolicLabs/Hyperbolic-AgentKit?style=social) |
-| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | Infra for agent ↔ DB connectivity (security, observability, pooling) | ![GitHub stars](https://img.shields.io/github/stars/googleapis/genai-toolbox?style=social) |
-| [Darwin-lfl/langmanus](https://github.com/Darwin-lfl/langmanus) | Automation framework with web search, crawling, Python execution | ![GitHub stars](https://img.shields.io/github/stars/Darwin-lfl/langmanus?style=social) |
-| [hinthornw/trustcall](https://github.com/hinthornw/trustcall) | Tenacious tool calling on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/hinthornw/trustcall?style=social) |
-| [langasync/langasync](https://github.com/langasync/langasync) | Asynchronous utilities and extensions for LangChain enabling high-performance async workflows | ![GitHub stars](https://img.shields.io/github/stars/langasync/langasync?style=social) |
-| [andrestorres123/delve](https://github.com/andrestorres123/delve) | Taxonomy generator for unstructured data | ![GitHub stars](https://img.shields.io/github/stars/andrestorres123/delve?style=social) |
-| [Bessouat40/RAGLight](https://github.com/Bessouat40/RAGLight) | Modular RAG/Agentic RAG library for multiple providers | ![GitHub stars](https://img.shields.io/github/stars/Bessouat40/RAGLight?style=social) |
-| [teddynote-lab/langgraph-mcp-agents](https://github.com/teddynote-lab/langgraph-mcp-agents) | MCP integration toolkit for LangGraph agents | ![GitHub stars](https://img.shields.io/github/stars/teddynote-lab/langgraph-mcp-agents?style=social) |
-| [cryxnet/deepmcpagent](https://github.com/cryxnet/deepmcpagent) | MCP-first agent framework (LangChain/LangGraph) over HTTP/SSE | ![GitHub stars](https://img.shields.io/github/stars/cryxnet/deepmcpagent?style=social) |
-| [cubaseuser123/Cellwise-LanGraph-NoteBook-Agent](https://github.com/cubaseuser123/Cellwise-LanGraph-NoteBook-Agent) | LangGraph agent that auto-documents Jupyter notebooks in real-time as cells execute, via IPython hooks | ![GitHub stars](https://img.shields.io/github/stars/cubaseuser123/Cellwise-LanGraph-NoteBook-Agent?style=social) |
-| [Azzedde/brainstormers](https://github.com/Azzedde/brainstormers) | Curated chains for structured brainstorming | ![GitHub stars](https://img.shields.io/github/stars/Azzedde/brainstormers?style=social) |
-| [rsrini7/mermaid2gif](https://github.com/rsrini7/mermaid2gif) | Tool for converting Mermaid diagrams to animated GIFs with optional AI-powered diagram generation | ![GitHub stars](https://img.shields.io/github/stars/rsrini7/mermaid2gif?style=social) |
-| [zamalali/langchain-code](https://github.com/zamalali/langchain-code) | Multi-LLM CLI tool with ReAct & Deep modes for code analysis, feature implementation, and bug fixing | ![GitHub stars](https://img.shields.io/github/stars/zamalali/langchain-code?style=social) |
-| [Mediaeater/swarm.at](https://github.com/Mediaeater/swarm-at-ledger) | Settlement protocol that hash-chains every LangGraph node execution into an immutable audit ledger with trust-tiered agent identities | ![GitHub stars](https://img.shields.io/github/stars/Mediaeater/swarm.at?style=social) |
+| [akamai/patchdiff-ai](https://github.com/akamai/patchdiff-ai) | AI-powered patch diff analysis tool for automated code change review and security analysis | ![GitHub stars](https://img.shields.io/github/stars/akamai/patchdiff-ai?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/akamai/patchdiff-ai) |
+| [sanjeed5/ai-conversation-simulator](https://github.com/sanjeed5/ai-conversation-simulator) | Simulated conversations to test assistants; LangSmith integration | ![GitHub stars](https://img.shields.io/github/stars/sanjeed5/ai-conversation-simulator?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/sanjeed5/ai-conversation-simulator) |
+| [DiTo97/deepagents-backends](https://github.com/DiTo97/deepagents-backends) | Backend services and infrastructure for deploying and managing Deep Agents applications | ![GitHub stars](https://img.shields.io/github/stars/DiTo97/deepagents-backends?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/DiTo97/deepagents-backends) |
+| [JoshuaC215/agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) | Toolkit for deploying agents with FastAPI and Streamlit | ![GitHub stars](https://img.shields.io/github/stars/JoshuaC215/agent-service-toolkit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/JoshuaC215/agent-service-toolkit) |
+| [HyperbolicLabs/Hyperbolic-AgentKit](https://github.com/HyperbolicLabs/Hyperbolic-AgentKit) | Agent kit with blockchain/compute features | ![GitHub stars](https://img.shields.io/github/stars/HyperbolicLabs/Hyperbolic-AgentKit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/HyperbolicLabs/Hyperbolic-AgentKit) |
+| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | Infra for agent ↔ DB connectivity (security, observability, pooling) | ![GitHub stars](https://img.shields.io/github/stars/googleapis/genai-toolbox?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/googleapis/genai-toolbox) |
+| [Darwin-lfl/langmanus](https://github.com/Darwin-lfl/langmanus) | Automation framework with web search, crawling, Python execution | ![GitHub stars](https://img.shields.io/github/stars/Darwin-lfl/langmanus?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Darwin-lfl/langmanus) |
+| [hinthornw/trustcall](https://github.com/hinthornw/trustcall) | Tenacious tool calling on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/hinthornw/trustcall?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/hinthornw/trustcall) |
+| [langasync/langasync](https://github.com/langasync/langasync) | Asynchronous utilities and extensions for LangChain enabling high-performance async workflows | ![GitHub stars](https://img.shields.io/github/stars/langasync/langasync?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/langasync/langasync) |
+| [andrestorres123/delve](https://github.com/andrestorres123/delve) | Taxonomy generator for unstructured data | ![GitHub stars](https://img.shields.io/github/stars/andrestorres123/delve?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/andrestorres123/delve) |
+| [Bessouat40/RAGLight](https://github.com/Bessouat40/RAGLight) | Modular RAG/Agentic RAG library for multiple providers | ![GitHub stars](https://img.shields.io/github/stars/Bessouat40/RAGLight?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Bessouat40/RAGLight) |
+| [teddynote-lab/langgraph-mcp-agents](https://github.com/teddynote-lab/langgraph-mcp-agents) | MCP integration toolkit for LangGraph agents | ![GitHub stars](https://img.shields.io/github/stars/teddynote-lab/langgraph-mcp-agents?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/teddynote-lab/langgraph-mcp-agents) |
+| [cryxnet/deepmcpagent](https://github.com/cryxnet/deepmcpagent) | MCP-first agent framework (LangChain/LangGraph) over HTTP/SSE | ![GitHub stars](https://img.shields.io/github/stars/cryxnet/deepmcpagent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/cryxnet/deepmcpagent) |
+| [cubaseuser123/Cellwise-LanGraph-NoteBook-Agent](https://github.com/cubaseuser123/Cellwise-LanGraph-NoteBook-Agent) | LangGraph agent that auto-documents Jupyter notebooks in real-time as cells execute, via IPython hooks | ![GitHub stars](https://img.shields.io/github/stars/cubaseuser123/Cellwise-LanGraph-NoteBook-Agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/cubaseuser123/Cellwise-LanGraph-NoteBook-Agent) |
+| [Azzedde/brainstormers](https://github.com/Azzedde/brainstormers) | Curated chains for structured brainstorming | ![GitHub stars](https://img.shields.io/github/stars/Azzedde/brainstormers?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Azzedde/brainstormers) |
+| [rsrini7/mermaid2gif](https://github.com/rsrini7/mermaid2gif) | Tool for converting Mermaid diagrams to animated GIFs with optional AI-powered diagram generation | ![GitHub stars](https://img.shields.io/github/stars/rsrini7/mermaid2gif?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/rsrini7/mermaid2gif) |
+| [zamalali/langchain-code](https://github.com/zamalali/langchain-code) | Multi-LLM CLI tool with ReAct & Deep modes for code analysis, feature implementation, and bug fixing | ![GitHub stars](https://img.shields.io/github/stars/zamalali/langchain-code?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/langchain-code) |
+| [Mediaeater/swarm.at](https://github.com/Mediaeater/swarm-at-ledger) | Settlement protocol that hash-chains every LangGraph node execution into an immutable audit ledger with trust-tiered agent identities | ![GitHub stars](https://img.shields.io/github/stars/Mediaeater/swarm.at?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Mediaeater/swarm.at) |
 | [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
 
 <div align="center">
@@ -1188,11 +1188,11 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Multi-agent trading system with LangChain | ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=social) |
-| [sagar-n/deepagents](https://github.com/sagar-n/deepagents) | Stock research assistant with specialized analysis agents | ![GitHub stars](https://img.shields.io/github/stars/sagar-n/deepagents?style=social) |
-| [AKMessi/AI-IPO-Analyst](https://github.com/AKMessi/AI-IPO-Analyst) | IPO analysis agent with PDF parsing and market data enrichment | ![GitHub stars](https://img.shields.io/github/stars/AKMessi/AI-IPO-Analyst?style=social) |
-| [johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction) | Bank statement parsing + personal finance analysis with multi-agent workflow | ![GitHub stars](https://img.shields.io/github/stars/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction?style=social) |
-| [OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp) | DeFi MCP server with 12 tools: real-time crypto prices, multi-chain wallet balances (9 chains), DEX quotes via Jupiter and Li.Fi, and token search across 275+ assets | ![GitHub stars](https://img.shields.io/github/stars/OzorOwn/defi-mcp?style=social) |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Multi-agent trading system with LangChain | ![GitHub stars](https://img.shields.io/github/stars/virattt/ai-hedge-fund?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/virattt/ai-hedge-fund) |
+| [sagar-n/deepagents](https://github.com/sagar-n/deepagents) | Stock research assistant with specialized analysis agents | ![GitHub stars](https://img.shields.io/github/stars/sagar-n/deepagents?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/sagar-n/deepagents) |
+| [AKMessi/AI-IPO-Analyst](https://github.com/AKMessi/AI-IPO-Analyst) | IPO analysis agent with PDF parsing and market data enrichment | ![GitHub stars](https://img.shields.io/github/stars/AKMessi/AI-IPO-Analyst?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/AKMessi/AI-IPO-Analyst) |
+| [johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction) | Bank statement parsing + personal finance analysis with multi-agent workflow | ![GitHub stars](https://img.shields.io/github/stars/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction) |
+| [OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp) | DeFi MCP server with 12 tools: real-time crypto prices, multi-chain wallet balances (9 chains), DEX quotes via Jupiter and Li.Fi, and token search across 275+ assets | ![GitHub stars](https://img.shields.io/github/stars/OzorOwn/defi-mcp?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/OzorOwn/defi-mcp) |
 
 <div align="center">
 
@@ -1204,7 +1204,7 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [denser-org/denser-chat](https://github.com/denser-org/denser-chat) | Tool that breaks down content tasks and drafts long-form pieces | ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat?style=social) |
+| [denser-org/denser-chat](https://github.com/denser-org/denser-chat) | Tool that breaks down content tasks and drafts long-form pieces | ![GitHub stars](https://img.shields.io/github/stars/denser-org/denser-chat?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/denser-org/denser-chat) |
 
 
 
@@ -1214,11 +1214,11 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) | Turns multi-modal content into podcast-style dialogues | ![GitHub stars](https://img.shields.io/github/stars/souzatharsis/podcastfy?style=social) |
-| [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) | Navigate and search across YouTube channel content | ![GitHub stars](https://img.shields.io/github/stars/wassim249/YT-Navigator?style=social) |
-| [artnoage/Podcast](https://github.com/artnoage/Podcast) | Automated podcast pipeline from academic texts | ![GitHub stars](https://img.shields.io/github/stars/artnoage/Podcast?style=social) |
-| [benjichat/voice_agent_base](https://github.com/benjichat/voice_agent_base) | Voice agent with STT/TTS and web search in a React UI | ![GitHub stars](https://img.shields.io/github/stars/benjichat/voice_agent_base?style=social) |
-| [von-development/voice-file-agent](https://github.com/von-development/voice-file-agent) | Voice-controlled file manager with LangGraph ReAct | ![GitHub stars](https://img.shields.io/github/stars/von-development/voice-file-agent?style=social) |
+| [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) | Turns multi-modal content into podcast-style dialogues | ![GitHub stars](https://img.shields.io/github/stars/souzatharsis/podcastfy?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/souzatharsis/podcastfy) |
+| [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) | Navigate and search across YouTube channel content | ![GitHub stars](https://img.shields.io/github/stars/wassim249/YT-Navigator?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/wassim249/YT-Navigator) |
+| [artnoage/Podcast](https://github.com/artnoage/Podcast) | Automated podcast pipeline from academic texts | ![GitHub stars](https://img.shields.io/github/stars/artnoage/Podcast?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/artnoage/Podcast) |
+| [benjichat/voice_agent_base](https://github.com/benjichat/voice_agent_base) | Voice agent with STT/TTS and web search in a React UI | ![GitHub stars](https://img.shields.io/github/stars/benjichat/voice_agent_base?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/benjichat/voice_agent_base) |
+| [von-development/voice-file-agent](https://github.com/von-development/voice-file-agent) | Voice-controlled file manager with LangGraph ReAct | ![GitHub stars](https://img.shields.io/github/stars/von-development/voice-file-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/von-development/voice-file-agent) |
 
 
 <div align="center">
@@ -1231,7 +1231,7 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [RobotecAI/rai](https://github.com/RobotecAI/rai) | Flexible multi-agent framework for developing and deploying Embodied AI features in robotics with multi-modal interaction support | ![GitHub stars](https://img.shields.io/github/stars/RobotecAI/rai?style=social) |
+| [RobotecAI/rai](https://github.com/RobotecAI/rai) | Flexible multi-agent framework for developing and deploying Embodied AI features in robotics with multi-modal interaction support | ![GitHub stars](https://img.shields.io/github/stars/RobotecAI/rai?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/RobotecAI/rai) |
 
 <div align="center">
 
@@ -1243,15 +1243,15 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) | A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes | ![GitHub stars](https://img.shields.io/github/stars/GiovanniPasq/agentic-rag-for-dummies?style=social) |
-| [Goodnight77/Just-RAG](https://github.com/Goodnight77/Just-RAG) | Agentic RAG with LangGraph + Qdrant | ![GitHub stars](https://img.shields.io/github/stars/Goodnight77/Just-RAG?style=social) |
-| [IlyaRice/RAG-Challenge-2](https://github.com/IlyaRice/RAG-Challenge-2) | RAG with custom PDF parsing, parent retrieval, and reranking | ![GitHub stars](https://img.shields.io/github/stars/IlyaRice/RAG-Challenge-2?style=social) |
-| [LexStack-AI/LexReviewer](https://github.com/LexStack-AI/LexReviewer) | LangGraph-powered legal PDF RAG service with hybrid vector+BM25 retrieval, streaming chat, and citation-aware answers with bounding-box references for highlighting. | ![GitHub stars](https://img.shields.io/github/stars/LexStack-AI/LexReviewer?style=social) |
-| [TAMustafa/Local_Chat_RAG](https://github.com/TAMustafa/Local_Chat_RAG) | Local RAG chat (Ollama) with sources and modern UI | ![GitHub stars](https://img.shields.io/github/stars/TAMustafa/Local_Chat_RAG?style=social) |
-| [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) | PDF chatbot template with LangChain/LangGraph and vector storage | ![GitHub stars](https://img.shields.io/github/stars/mayooear/ai-pdf-chatbot-langchain?style=social) |
-| [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) | Tutorial series on RAG from basics to advanced | ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain?style=social) |
-| [catio-tech/graphqa](https://github.com/catio-tech/graphqa) | Natural language graph analysis framework for querying graphs without complex query languages | ![GitHub stars](https://img.shields.io/github/stars/catio-tech/graphqa?style=social) |
-| [zamalali/DeepGit](https://github.com/zamalali/DeepGit) | Agentic workflow for intelligent GitHub repo discovery with hybrid retrieval and re-ranking | ![GitHub stars](https://img.shields.io/github/stars/zamalali/DeepGit?style=social) |
+| [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) | A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes | ![GitHub stars](https://img.shields.io/github/stars/GiovanniPasq/agentic-rag-for-dummies?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/GiovanniPasq/agentic-rag-for-dummies) |
+| [Goodnight77/Just-RAG](https://github.com/Goodnight77/Just-RAG) | Agentic RAG with LangGraph + Qdrant | ![GitHub stars](https://img.shields.io/github/stars/Goodnight77/Just-RAG?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Goodnight77/Just-RAG) |
+| [IlyaRice/RAG-Challenge-2](https://github.com/IlyaRice/RAG-Challenge-2) | RAG with custom PDF parsing, parent retrieval, and reranking | ![GitHub stars](https://img.shields.io/github/stars/IlyaRice/RAG-Challenge-2?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/IlyaRice/RAG-Challenge-2) |
+| [LexStack-AI/LexReviewer](https://github.com/LexStack-AI/LexReviewer) | LangGraph-powered legal PDF RAG service with hybrid vector+BM25 retrieval, streaming chat, and citation-aware answers with bounding-box references for highlighting. | ![GitHub stars](https://img.shields.io/github/stars/LexStack-AI/LexReviewer?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/LexStack-AI/LexReviewer) |
+| [TAMustafa/Local_Chat_RAG](https://github.com/TAMustafa/Local_Chat_RAG) | Local RAG chat (Ollama) with sources and modern UI | ![GitHub stars](https://img.shields.io/github/stars/TAMustafa/Local_Chat_RAG?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/TAMustafa/Local_Chat_RAG) |
+| [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) | PDF chatbot template with LangChain/LangGraph and vector storage | ![GitHub stars](https://img.shields.io/github/stars/mayooear/ai-pdf-chatbot-langchain?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/mayooear/ai-pdf-chatbot-langchain) |
+| [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) | Tutorial series on RAG from basics to advanced | ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bRAGAI/bRAG-langchain) |
+| [catio-tech/graphqa](https://github.com/catio-tech/graphqa) | Natural language graph analysis framework for querying graphs without complex query languages | ![GitHub stars](https://img.shields.io/github/stars/catio-tech/graphqa?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/catio-tech/graphqa) |
+| [zamalali/DeepGit](https://github.com/zamalali/DeepGit) | Agentic workflow for intelligent GitHub repo discovery with hybrid retrieval and re-ranking | ![GitHub stars](https://img.shields.io/github/stars/zamalali/DeepGit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/DeepGit) |
 
 
 <div align="center">
@@ -1264,23 +1264,23 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Deep research framework with search/crawl/Python tools | ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social) |
-| [duartecaldascardoso/article-explainer](https://github.com/duartecaldascardoso/article-explainer) | Multi-agent system for understanding research articles with AI-powered explanations and Swarm architecture | ![GitHub stars](https://img.shields.io/github/stars/duartecaldascardoso/article-explainer?style=social) |
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Research agent integrating personal KBs and external sources | ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social) |
-| [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher) | Deep search agent with BAML, multi-provider scraping, async flows | ![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-researcher?style=social) |
-| [pogjester/company-research-agent](https://github.com/pogjester/company-research-agent) | Company research pipeline with streaming and filtering | ![GitHub stars](https://img.shields.io/github/stars/pogjester/company-research-agent?style=social) |
-| [jolovicdev/shandu](https://github.com/jolovicdev/shandu) | Source evaluation and knowledge synthesis | ![GitHub stars](https://img.shields.io/github/stars/jolovicdev/shandu?style=social) |
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Local deep research with multiple LLMs and web searches | ![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social) |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | Report-oriented research agent with citations | ![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social) |
-| [Just-Curieous/Curie](https://github.com/Just-Curieous/Curie) | Agent for empirical experimentation in ML/systems | ![GitHub stars](https://img.shields.io/github/stars/Just-Curieous/Curie?style=social) |
-| [iblameandrew/local-deepsearch-academic](https://github.com/iblameandrew/local-deepsearch-academic) | Academic paper discovery with S2 + RAPTOR indexing | ![GitHub stars](https://img.shields.io/github/stars/iblameandrew/local-deepsearch-academic?style=social) |
-| [andrestorres123/breeze-agent](https://github.com/andrestorres123/breeze-agent) | Streamlined research flow inspired by STORM on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/andrestorres123/breeze-agent?style=social) |
-| [bernatsampera/event-deep-research](https://github.com/bernatsampera/event-deep-research) | Multi-agent biographical research system extracting structured timeline events from historical figures | ![GitHub stars](https://img.shields.io/github/stars/bernatsampera/event-deep-research?style=social) |
-| [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | R&D automation for data mining, paper analysis, model tuning | ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social) |
-| [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) | Steerable enterprise research stack with planner, specialized search agents, and web UI on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/enterprise-deep-research?style=social) |
-| [xyin-anl/Nodeology](https://github.com/xyin-anl/Nodeology) | Simplified scientific workflow builder | ![GitHub stars](https://img.shields.io/github/stars/xyin-anl/Nodeology?style=social) |
-| [alonlavian/RAGent](https://github.com/alonlavian/RAGent) | Research assistant with PDF processing and web search | ![GitHub stars](https://img.shields.io/github/stars/alonlavian/RAGent?style=social) |
-| [lgesuellip/researcher_agent](https://github.com/lgesuellip/researcher_agent) | Turns websites into LLM-ready research content with automated documentation indexing | ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent?style=social) |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Deep research framework with search/crawl/Python tools | ![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bytedance/deer-flow) |
+| [duartecaldascardoso/article-explainer](https://github.com/duartecaldascardoso/article-explainer) | Multi-agent system for understanding research articles with AI-powered explanations and Swarm architecture | ![GitHub stars](https://img.shields.io/github/stars/duartecaldascardoso/article-explainer?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/duartecaldascardoso/article-explainer) |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | Research agent integrating personal KBs and external sources | ![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/MODSetter/SurfSense) |
+| [Intelligent-Internet/ii-researcher](https://github.com/Intelligent-Internet/ii-researcher) | Deep search agent with BAML, multi-provider scraping, async flows | ![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-researcher?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Intelligent-Internet/ii-researcher) |
+| [pogjester/company-research-agent](https://github.com/pogjester/company-research-agent) | Company research pipeline with streaming and filtering | ![GitHub stars](https://img.shields.io/github/stars/pogjester/company-research-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/pogjester/company-research-agent) |
+| [jolovicdev/shandu](https://github.com/jolovicdev/shandu) | Source evaluation and knowledge synthesis | ![GitHub stars](https://img.shields.io/github/stars/jolovicdev/shandu?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/jolovicdev/shandu) |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Local deep research with multiple LLMs and web searches | ![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/LearningCircuit/local-deep-research) |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | Report-oriented research agent with citations | ![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/assafelovic/gpt-researcher) |
+| [Just-Curieous/Curie](https://github.com/Just-Curieous/Curie) | Agent for empirical experimentation in ML/systems | ![GitHub stars](https://img.shields.io/github/stars/Just-Curieous/Curie?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Just-Curieous/Curie) |
+| [iblameandrew/local-deepsearch-academic](https://github.com/iblameandrew/local-deepsearch-academic) | Academic paper discovery with S2 + RAPTOR indexing | ![GitHub stars](https://img.shields.io/github/stars/iblameandrew/local-deepsearch-academic?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/iblameandrew/local-deepsearch-academic) |
+| [andrestorres123/breeze-agent](https://github.com/andrestorres123/breeze-agent) | Streamlined research flow inspired by STORM on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/andrestorres123/breeze-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/andrestorres123/breeze-agent) |
+| [bernatsampera/event-deep-research](https://github.com/bernatsampera/event-deep-research) | Multi-agent biographical research system extracting structured timeline events from historical figures | ![GitHub stars](https://img.shields.io/github/stars/bernatsampera/event-deep-research?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bernatsampera/event-deep-research) |
+| [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | R&D automation for data mining, paper analysis, model tuning | ![GitHub stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/microsoft/RD-Agent) |
+| [SalesforceAIResearch/enterprise-deep-research](https://github.com/SalesforceAIResearch/enterprise-deep-research) | Steerable enterprise research stack with planner, specialized search agents, and web UI on LangGraph | ![GitHub stars](https://img.shields.io/github/stars/SalesforceAIResearch/enterprise-deep-research?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/SalesforceAIResearch/enterprise-deep-research) |
+| [xyin-anl/Nodeology](https://github.com/xyin-anl/Nodeology) | Simplified scientific workflow builder | ![GitHub stars](https://img.shields.io/github/stars/xyin-anl/Nodeology?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/xyin-anl/Nodeology) |
+| [alonlavian/RAGent](https://github.com/alonlavian/RAGent) | Research assistant with PDF processing and web search | ![GitHub stars](https://img.shields.io/github/stars/alonlavian/RAGent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/alonlavian/RAGent) |
+| [lgesuellip/researcher_agent](https://github.com/lgesuellip/researcher_agent) | Turns websites into LLM-ready research content with automated documentation indexing | ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/researcher_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/lgesuellip/researcher_agent) |
 
 
 
@@ -1295,9 +1295,9 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [LembaGang/headless-oracle-v5](https://github.com/LembaGang/headless-oracle-v5) | Fail-closed market status MCP. Pauses stateful LangGraph agents from entering retry loops during closed markets or DST shifts. | ![GitHub stars](https://img.shields.io/github/stars/LembaGang/headless-oracle-v5?style=social) |
-| [pic-standard](https://github.com/madeinplutofabio/pic-standard) | Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence). | ![GitHub stars](https://img.shields.io/github/stars/madeinplutofabio/pic-standard?style=social) |
-| [sidclawhq/platform](https://github.com/sidclawhq/platform) | Approval and audit layer for LangGraph agents. Intercepts tool calls, evaluates them against policies, and holds them for human review before execution. Hash-chain audit trail, 13 framework integrations. Apache 2.0. | ![GitHub stars](https://img.shields.io/github/stars/sidclawhq/platform?style=social) |
+| [LembaGang/headless-oracle-v5](https://github.com/LembaGang/headless-oracle-v5) | Fail-closed market status MCP. Pauses stateful LangGraph agents from entering retry loops during closed markets or DST shifts. | ![GitHub stars](https://img.shields.io/github/stars/LembaGang/headless-oracle-v5?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/LembaGang/headless-oracle-v5) |
+| [pic-standard](https://github.com/madeinplutofabio/pic-standard) | Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence). | ![GitHub stars](https://img.shields.io/github/stars/madeinplutofabio/pic-standard?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/madeinplutofabio/pic-standard) |
+| [sidclawhq/platform](https://github.com/sidclawhq/platform) | Approval and audit layer for LangGraph agents. Intercepts tool calls, evaluates them against policies, and holds them for human review before execution. Hash-chain audit trail, 13 framework integrations. Apache 2.0. | ![GitHub stars](https://img.shields.io/github/stars/sidclawhq/platform?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/sidclawhq/platform) |
 
 
 
@@ -1312,7 +1312,7 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [vivek-suryavanshi/GreenMeGenAIApp](https://github.com/vivek-suryavanshi/GreenMeGenAIApp) | AI sustainability guide that analyzes lifestyle for carbon footprint reduction | ![GitHub stars](https://img.shields.io/github/stars/vivek-suryavanshi/GreenMeGenAIApp?style=social) |
+| [vivek-suryavanshi/GreenMeGenAIApp](https://github.com/vivek-suryavanshi/GreenMeGenAIApp) | AI sustainability guide that analyzes lifestyle for carbon footprint reduction | ![GitHub stars](https://img.shields.io/github/stars/vivek-suryavanshi/GreenMeGenAIApp?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/vivek-suryavanshi/GreenMeGenAIApp) |
 
 <div align="center">
 
@@ -1324,11 +1324,11 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [emanueleielo/deepagents-open-lovable](https://github.com/emanueleielo/deepagents-open-lovable) | Open-source Deep Agents implementation with Lovable platform integration for complex planning and execution workflows | ![GitHub stars](https://img.shields.io/github/stars/emanueleielo/deepagents-open-lovable?style=social) |
-| [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) | FastAPI template for LangGraph agents (logging, persistence, security) | ![GitHub stars](https://img.shields.io/github/stars/wassim249/fastapi-langgraph-agent-production-ready-template?style=social) |
-| [gtesei/agentic_design_patterns](https://github.com/gtesei/agentic_design_patterns) | A comprehensive, hands-on collection of design patterns for building robust agentic AI systems using LangChain and LangGraph | ![GitHub stars](https://img.shields.io/github/stars/gtesei/agentic_design_patterns?style=social) |
-| [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template) | FastAPI template with LangGraph + MCP and streaming UX | ![GitHub stars](https://img.shields.io/github/stars/NicholasGoh/fastapi-mcp-langgraph-template?style=social) |
-| [lgesuellip/langgraph-whatsapp-agent](https://github.com/lgesuellip/langgraph-whatsapp-agent) | Template for WhatsApp agents with LangGraph and MCP | ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/langgraph-whatsapp-agent?style=social) |
+| [emanueleielo/deepagents-open-lovable](https://github.com/emanueleielo/deepagents-open-lovable) | Open-source Deep Agents implementation with Lovable platform integration for complex planning and execution workflows | ![GitHub stars](https://img.shields.io/github/stars/emanueleielo/deepagents-open-lovable?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/emanueleielo/deepagents-open-lovable) |
+| [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) | FastAPI template for LangGraph agents (logging, persistence, security) | ![GitHub stars](https://img.shields.io/github/stars/wassim249/fastapi-langgraph-agent-production-ready-template?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/wassim249/fastapi-langgraph-agent-production-ready-template) |
+| [gtesei/agentic_design_patterns](https://github.com/gtesei/agentic_design_patterns) | A comprehensive, hands-on collection of design patterns for building robust agentic AI systems using LangChain and LangGraph | ![GitHub stars](https://img.shields.io/github/stars/gtesei/agentic_design_patterns?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/gtesei/agentic_design_patterns) |
+| [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template) | FastAPI template with LangGraph + MCP and streaming UX | ![GitHub stars](https://img.shields.io/github/stars/NicholasGoh/fastapi-mcp-langgraph-template?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/NicholasGoh/fastapi-mcp-langgraph-template) |
+| [lgesuellip/langgraph-whatsapp-agent](https://github.com/lgesuellip/langgraph-whatsapp-agent) | Template for WhatsApp agents with LangGraph and MCP | ![GitHub stars](https://img.shields.io/github/stars/lgesuellip/langgraph-whatsapp-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/lgesuellip/langgraph-whatsapp-agent) |
 
 
 
@@ -1342,15 +1342,15 @@ Access the official LangSmith platform documentation:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
-| [ashumishra2104/AI_Travel_agent_Streamlit](https://github.com/ashumishra2104/AI_Travel_agent_Streamlit) | Streamlit-based AI travel agent with weather, search, currency conversion, and YouTube integration tools | ![GitHub stars](https://img.shields.io/github/stars/ashumishra2104/AI_Travel_agent_Streamlit?style=social) |
-| [eduly-ai/eduly](https://github.com/eduly-ai/eduly) | AI-powered educational platform for personalized learning experiences and tutoring assistance | ![GitHub stars](https://img.shields.io/github/stars/eduly-ai/eduly?style=social) |
-| [emanueleielo/ciana-parrot](https://github.com/emanueleielo/ciana-parrot) | Self-hosted AI personal assistant with Telegram integration, scheduled tasks, multi-provider LLM support, and MCP server integration | ![GitHub stars](https://img.shields.io/github/stars/emanueleielo/ciana-parrot?style=social) |
-| [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer) | Desktop task agent focused on safe execution | ![GitHub stars](https://img.shields.io/github/stars/Clevrr-AI/Clevrr-Computer?style=social) |
-| [tavily-ai/meeting-prep-agent](https://github.com/tavily-ai/meeting-prep-agent) | Meeting prep with calendars, search, and profile research | ![GitHub stars](https://img.shields.io/github/stars/tavily-ai/meeting-prep-agent?style=social) |
-| [temporal-cortex/mcp](https://github.com/temporal-cortex/mcp) | Deterministic calendar scheduling MCP server with LangGraph examples — datetime resolution, multi-calendar availability, and atomic booking | ![GitHub stars](https://img.shields.io/github/stars/temporal-cortex/mcp?style=social) |
-| [zamalali/InboxHero](https://github.com/zamalali/InboxHero) | Email triage with attachment reading and reply drafting | ![GitHub stars](https://img.shields.io/github/stars/zamalali/InboxHero?style=social) |
-| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | Self-hosted second brain for docs and web | ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social) |
-| [raj-maharajwala/AI_Agent_Chatbot_Synapse](https://github.com/raj-maharajwala/AI_Agent_Chatbot_Synapse) | Bundle of search/productivity/data agents with UI | ![GitHub stars](https://img.shields.io/github/stars/raj-maharajwala/AI_Agent_Chatbot_Synapse?style=social) |
+| [ashumishra2104/AI_Travel_agent_Streamlit](https://github.com/ashumishra2104/AI_Travel_agent_Streamlit) | Streamlit-based AI travel agent with weather, search, currency conversion, and YouTube integration tools | ![GitHub stars](https://img.shields.io/github/stars/ashumishra2104/AI_Travel_agent_Streamlit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ashumishra2104/AI_Travel_agent_Streamlit) |
+| [eduly-ai/eduly](https://github.com/eduly-ai/eduly) | AI-powered educational platform for personalized learning experiences and tutoring assistance | ![GitHub stars](https://img.shields.io/github/stars/eduly-ai/eduly?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/eduly-ai/eduly) |
+| [emanueleielo/ciana-parrot](https://github.com/emanueleielo/ciana-parrot) | Self-hosted AI personal assistant with Telegram integration, scheduled tasks, multi-provider LLM support, and MCP server integration | ![GitHub stars](https://img.shields.io/github/stars/emanueleielo/ciana-parrot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/emanueleielo/ciana-parrot) |
+| [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer) | Desktop task agent focused on safe execution | ![GitHub stars](https://img.shields.io/github/stars/Clevrr-AI/Clevrr-Computer?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Clevrr-AI/Clevrr-Computer) |
+| [tavily-ai/meeting-prep-agent](https://github.com/tavily-ai/meeting-prep-agent) | Meeting prep with calendars, search, and profile research | ![GitHub stars](https://img.shields.io/github/stars/tavily-ai/meeting-prep-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/tavily-ai/meeting-prep-agent) |
+| [temporal-cortex/mcp](https://github.com/temporal-cortex/mcp) | Deterministic calendar scheduling MCP server with LangGraph examples — datetime resolution, multi-calendar availability, and atomic booking | ![GitHub stars](https://img.shields.io/github/stars/temporal-cortex/mcp?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/temporal-cortex/mcp) |
+| [zamalali/InboxHero](https://github.com/zamalali/InboxHero) | Email triage with attachment reading and reply drafting | ![GitHub stars](https://img.shields.io/github/stars/zamalali/InboxHero?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/InboxHero) |
+| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | Self-hosted second brain for docs and web | ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/khoj-ai/khoj) |
+| [raj-maharajwala/AI_Agent_Chatbot_Synapse](https://github.com/raj-maharajwala/AI_Agent_Chatbot_Synapse) | Bundle of search/productivity/data agents with UI | ![GitHub stars](https://img.shields.io/github/stars/raj-maharajwala/AI_Agent_Chatbot_Synapse?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/raj-maharajwala/AI_Agent_Chatbot_Synapse) |
 
 
 ---

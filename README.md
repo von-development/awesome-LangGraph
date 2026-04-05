@@ -1,11 +1,12 @@
 # 🦜🕸️ Awesome LangGraph & LangChain Ecosystem ![Awesome](https://awesome.re/badge.svg) ![Last Updated](https://img.shields.io/github/last-commit/von-development/awesome-LangGraph)
 
-> The definitive index of frameworks, templates, and real-world projects for building **stateful, tool-using AI agents** with the LangChain + LangGraph stack.
+> The definitive index of frameworks, templates, and real-world projects for teams that want to **build, observe, evaluate, and deploy** stateful, tool-using AI agents with the LangChain + LangGraph stack.
 
-Whether you’re prototyping your first agent or shipping production workflows, this list maps the whole landscape—from **core libraries** and **platform tooling** (LangGraph Platform, LangSmith) to **integrations**, **official examples**, and **community projects** organized by domain.
+Whether you’re prototyping your first workflow or operating production systems, this list maps the full lifecycle of agent development, from **building** with core libraries and integrations, to **observing** runs with platform tooling, **evaluating** quality and behavior, and **deploying** reliable agent applications.
 
 **What you’ll find**
-- Core frameworks: LangChain, LangGraph, LangSmith, and LangGraph Platform
+- Core frameworks: LangChain, LangGraph, Deep Agents, and LangSmith
+- Resources for building, observing, evaluating, and deploying agent systems
 - Integrations & MCP tooling across models, vector stores, loaders, and tools
 - Official LangChain/LangGraph projects and prebuilt agent libraries
 - Community projects grouped by use case (RAG, web automation, research, finance, etc.)
@@ -25,14 +26,16 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [🦜 LangChain 🔗](#-langchain-)
     - [Core Components](#core-components)
     - [Advanced Usage](#advanced-usage)
-    - [Available Files](#available-files)
-    - [Format Differences](#format-differences)
+    - [LangChain Documentation and llms.txt Files](#-langchain-documentation-and-llmstxt-files-️)
   - [🦜 LangGraph 🕸️](#-langgraph-️)
-    - [Available Files](#available-files-1)
-    - [Format Differences](#format-differences-1)
-    - [Usage with IDEs](#usage-with-ides)
+    - [LangGraph Documentation and llms.txt Files](#-langgraph-documentation-and-llmstxt-files-️)
+  - [🧠 Deep Agents](#-deep-agents)
+    - [Core Capabilities](#core-capabilities)
+    - [Deep Agents SDK and CLI](#-deep-agents-sdk-and-cli-️)
+    - [Deep Agents Documentation and llms.txt Files](#-deep-agents-documentation-and-llmstxt-files-️)
   - [🦜 LangSmith 🛠️](#-langsmith-️)
-  - [🦜 LangGraph Platform 🚀](#-langgraph-platform-)
+    - [LangSmith Documentation and llms.txt Files](#-langsmith-documentation-and-llmstxt-files-️)
+  - [🧩 LangSmith Fleet](#-langsmith-fleet)
   - [🦜 LangChain Integrations \& Partners 🤝](#-langchain-integrations--partners-)
   - [🟢 Official LangGraph Projects 🦜](#-official-langgraph-projects-)
     - [🟩 Specialized Agent Libraries 🤖](#-specialized-agent-libraries-)
@@ -94,18 +97,15 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 
 **🕸️ LangGraph** - The core framework for building stateful, multi-agent systems with complex workflows, collaboration, and memory management.
 
-**🛠️ LangSmith** - Helpful for agent evaluations and observability. Debug poor-performing LLM app runs, evaluate agent trajectories, gain visibility in production, and improve performance over time.
+**🧠 Deep Agents** - An agent harness for building agents that can plan, decompose complex tasks, use subagents, manage large context with filesystem tools, and persist long-term memory.
 
-**🚀 LangGraph Platform** - Deploy and scale agents effortlessly with a purpose-built deployment platform for long running, stateful workflows. Discover, reuse, configure, and share agents across teams — and iterate quickly with visual prototyping in LangGraph Studio.
+**🛠️ LangSmith** - The platform layer for observing, evaluating, and deploying AI agents and LLM applications with tracing, prompt engineering, Agent Server deployment, sandboxes, and operational tooling.
+
+**🧩 LangSmith Fleet** - A no-code platform for creating and managing AI agents from templates, connecting apps and accounts, automating routine work, and keeping humans in control with approvals and oversight.
 
 **🤝 LangChain Integrations & Partners** - Third-party integrations and provider packages that extend LangChain's capabilities across the AI ecosystem. These integration packages provide standardized interfaces to work with popular AI services, databases, and tools.
 
 
-
-> [!TIP]
-> **LangChain v1.0** introduces a major architectural shift where **all LangChain agents are now built on top of LangGraph**. This provides better control, state management, and debugging capabilities for agent workflows. The v1.0 documentation reflects this new LangGraph-first approach to agent development.
-
-<n></n>
 
 ---
 
@@ -143,10 +143,11 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 | Feature | Description |
 |---------|-------------|
 | **🧠 [Long-term Memory](https://docs.langchain.com/oss/python/langchain/long-term-memory)** | Persistent memory that survives across sessions |
+| **🛡️ [Guardrails](https://docs.langchain.com/oss/python/langchain/guardrails)** | Safety checks and policy enforcement for agent inputs, outputs, and tool usage |
 | **🎯 [Context Engineering](https://docs.langchain.com/oss/python/langchain/context-engineering)** | Techniques for optimizing prompts and context management |
 | **📋 [Structured Output](https://docs.langchain.com/oss/python/langchain/structured-output)** | Generate responses in specific formats and schemas |
-| **🔗 [Model Context Protocol (MCP)](https://docs.langchain.com/oss/python/langchain/mcp)** | Standardized tool integration and context sharing |
-| **👥 Human-in-the-Loop** | Interactive agent workflows with human oversight (*Coming Soon*) |
+| **🔗 [Model Context Protocol](https://docs.langchain.com/oss/python/langchain/mcp)** | Standardized tool integration and context sharing |
+| **👥 [Human-in-the-Loop](https://docs.langchain.com/oss/python/langchain/human-in-the-loop)** | Approval workflows and interrupt-based human oversight for sensitive agent actions |
 | **🤝 [Multi-agent](https://docs.langchain.com/oss/python/langchain/multi-agent)** | Coordinated systems with multiple AI agents |
 | **🔍 [Retrieval](https://docs.langchain.com/oss/python/langchain/retrieval)** | Advanced document retrieval and RAG patterns |
 | **⚙️ [Runtime](https://docs.langchain.com/oss/python/langchain/runtime)** | Production deployment and runtime management |
@@ -171,35 +172,31 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 </details>
 
 <details>
-<summary><strong>▫️ LangChain Documentation ▫️</strong></summary>
+<summary><strong>▫️ LangChain Documentation and llms.txt Files ▫️</strong></summary>
 
-Access the official LangChain documentation across different versions and languages:
+Access the official LangChain documentation across the current unified docs experience and legacy redirect URLs:
 
 <div align="center">
 
-| Version | Python | JavaScript | Status |
-|---------|--------|------------|--------|
-| **v1.0 Alpha** | [Alpha Docs](https://docs.langchain.com/oss/python/langchain/overview) | [Alpha Docs](https://docs.langchain.com/oss/javascript/langchain/) | 🚧 Alpha |
-| **v0.3** | [Stable Docs](https://python.langchain.com/docs/introduction/) | [Stable Docs](https://js.langchain.com/docs/introduction/) | ✅ Stable |
+| Docs | Python | JavaScript | Notes |
+|------|--------|------------|-------|
+| **Current Open Source Docs** | [Overview](https://docs.langchain.com/oss/python/langchain/overview) | [Overview](https://docs.langchain.com/oss/javascript/langchain/overview) | Current unified LangChain OSS docs on `docs.langchain.com` |
+| **Legacy Redirects** | [Legacy Entry](https://python.langchain.com/docs/introduction/) | [Legacy Entry](https://js.langchain.com/docs/introduction/) | Older URLs that now redirect to the current overview docs |
 
 </div>
-</details>
 
-<details>
-<summary><strong>▫️ LangChain llms.txt Files ▫️</strong></summary>
-
-**AI-accessible documentation format for LLMs and IDEs** - Documentation files in llms.txt format that allow large language models and agents to access programming documentation and APIs, particularly useful within integrated development environments.
+**AI-accessible documentation format for LLMs and IDEs** - LangChain now exposes a unified `llms.txt` entrypoint on `docs.langchain.com` for programmatic access to the latest documentation across LangChain, LangGraph, LangSmith, and API references.
 
 ### Available Files
 
-| Language | llms.txt | llms-full.txt |
-|----------|----------|---------------|
-| **Python** | [python.langchain.com/llms.txt](https://python.langchain.com/llms.txt) | N/A |
-| **JavaScript** | [js.langchain.com/llms.txt](https://js.langchain.com/llms.txt) | N/A |
+| Scope | llms.txt | llms-full.txt |
+|-------|----------|---------------|
+| **Unified LangChain Docs** | [docs.langchain.com/llms.txt](https://docs.langchain.com/llms.txt) | N/A |
+| **Legacy Redirects** | [python.langchain.com/llms.txt](https://python.langchain.com/llms.txt), [js.langchain.com/llms.txt](https://js.langchain.com/llms.txt) | N/A |
 
 ### Format Differences
-- **`llms.txt`** - Index file with links and brief descriptions requiring navigation for detailed information
-- **`llms-full.txt`** - Complete content in a single file, but may exceed LLM context windows
+- **`llms.txt`** - Unified index file with links and summaries for the latest LangChain ecosystem docs
+- **Legacy `llms.txt` URLs** - Older Python and JavaScript endpoints that currently redirect to the unified docs file
 
 > **⚠️ Review Output**: Even with up-to-date documentation, current models may not always generate correct code. Always review generated code before production use.
 
@@ -226,10 +223,12 @@ Access the official LangChain documentation across different versions and langua
 | **💾 Persistence** | State persistence across executions and failures | Checkpointing, state recovery, session continuity |
 | **🔄 Durable Execution** | Build agents that persist through failures and run for extended periods | Automatic resume, failure recovery, long-running workflows |
 | **⚡ Streaming** | Real-time execution with partial results and live updates | Token streaming, progress tracking, responsive UX |
-| **👥 Human-in-the-Loop** | Seamless human oversight and intervention capabilities | Approval workflows, manual interventions, state inspection |
+| **⏸️ [Interrupts](https://docs.langchain.com/oss/python/langgraph/interrupts)** | Pause graph execution for human input, review, and intervention | Approval checkpoints, state editing, resumable workflows |
 | **⏰ Time Travel** | Navigate through agent execution history and states | State debugging, execution replay, historical analysis |
 | **🧠 Add and Manage Memory** | Comprehensive memory management for stateful agents | Short-term working memory, long-term persistence, memory optimization |
 | **📊 Subgraphs** | Nested graph structures for complex workflow composition | Modular workflows, reusable components, hierarchical execution |
+| **🧪 [Testing](https://docs.langchain.com/oss/python/langgraph/test)** | Validate graph behavior with unit and partial-execution testing patterns | Node testing, partial execution, checkpointer-based test setup |
+| **👀 [Observability](https://docs.langchain.com/oss/python/langgraph/observability)** | Trace and debug graph execution with LangSmith | Execution traces, state inspection, runtime monitoring |
 
 </details>
 
@@ -246,58 +245,90 @@ Access the official LangChain documentation across different versions and langua
 
 </details>
 
-<details>
-<summary><strong> ▫️ LangGraph Starter Templates ▫️</strong></summary>
-
-Get started quickly with LangGraph using the CLI command `langgraph new` to choose from pre-built templates:
-
-| Template | Description | Python | TypeScript |
-|----------|-------------|--------|------------|
-| **New Project** | Basic chatbot with memory | [new-langgraph-project](https://github.com/langchain-ai/new-langgraph-project) | [new-langgraphjs-project](https://github.com/langchain-ai/new-langgraphjs-project) |
-| **ReAct Agent** | Tool-using agent framework | [react-agent](https://github.com/langchain-ai/react-agent) | [react-agent-js](https://github.com/langchain-ai/react-agent-js) |
-| **Memory Agent** | Cross-thread memory persistence | [memory-agent](https://github.com/langchain-ai/memory-agent) | [memory-agent-js](https://github.com/langchain-ai/memory-agent-js) |
-| **Retrieval Agent** | Knowledge-based QA system | [retrieval-agent-template](https://github.com/langchain-ai/retrieval-agent-template) | [retrieval-agent-template-js](https://github.com/langchain-ai/retrieval-agent-template-js) |
-| **Data Enrichment** | Web search & data organization | [data-enrichment](https://github.com/langchain-ai/data-enrichment) | [data-enrichment-js](https://github.com/langchain-ai/data-enrichment-js) |
-
-</details>
 
 <details>
-<summary><strong> ▫️ LangGraph Documentation ▫️</strong></summary>
+<summary><strong> ▫️ LangGraph Documentation and llms.txt Files ▫️</strong></summary>
 
-Access the official LangGraph documentation across different languages:
+Access the official LangGraph documentation across the current unified open source docs:
 
 <div align="center">
 
-| Language | Framework | Documentation |
-|----------|-----------|---------------|
-| **Python** | LangGraph | [Python Docs](https://docs.langchain.com/langgraph/overview) |
-| **JavaScript** | LangGraph.js | [JavaScript Docs](https://docs.langchain.com/langgraphjs/overview) |
+| Docs | Python | JavaScript | Notes |
+|------|--------|------------|-------|
+| **Current Open Source Docs** | [Overview](https://docs.langchain.com/oss/python/langgraph/overview) | [Overview](https://docs.langchain.com/oss/javascript/langgraph/overview) | Current LangGraph OSS docs on `docs.langchain.com` |
+| **Quickstart** | [Quickstart](https://docs.langchain.com/oss/python/langgraph/quickstart) | [Quickstart](https://docs.langchain.com/oss/javascript/langgraph/quickstart) | Build a first LangGraph app with tools, memory, and streaming |
+
 
 </div>
+
+**AI-accessible documentation format for LLMs and IDEs** - LangGraph documentation is part of the unified `docs.langchain.com` docs experience, so the primary `llms.txt` entrypoint is shared across the broader ecosystem docs.
+
+| Scope | llms.txt | llms-full.txt |
+|-------|----------|---------------|
+| **Unified LangChain Docs** | [docs.langchain.com/llms.txt](https://docs.langchain.com/llms.txt) | N/A |
+
+</details>
+
+
+
+<n></n>
+
+---
+
+<div align="center">
+
+## 🧠 Deep Agents
+
+</div>
+
+**Deep Agents** is an open-source agent harness for building agents that can plan, delegate to subagents, manage context with filesystem tools, and persist long-term memory for complex, multi-step tasks.
+
+<details>
+<summary><strong>▫️ Core Capabilities ▫️</strong></summary>
+
+| Capability | Description | Key Features |
+|------------|-------------|--------------|
+| **🗂️ [Planning & Task Decomposition](https://docs.langchain.com/oss/python/deepagents/overview)** | Break large tasks into manageable steps and track progress | Built-in todo system, adaptive planning, multi-step execution |
+| **📁 [Context Management](https://docs.langchain.com/oss/python/deepagents/backends)** | Offload and manage large context through filesystem tools | Virtual filesystem, file read/write/edit tools, context compaction |
+| **🧩 [Subagents](https://docs.langchain.com/oss/python/deepagents/subagents)** | Delegate work to specialized agents for context isolation | Built-in task delegation, specialized subtasks, cleaner main-agent context |
+| **🧠 [Memory](https://docs.langchain.com/oss/python/deepagents/long-term-memory)** | Persist useful information across threads and sessions | Long-term memory, memory stores, cross-thread recall |
+| **✋ [Human-in-the-Loop](https://docs.langchain.com/oss/python/deepagents/human-in-the-loop)** | Add approval checkpoints for sensitive operations | Approval controls, resumable execution, tool-level oversight |
+| **🧪 [Sandboxes](https://docs.langchain.com/oss/python/deepagents/sandboxes)** | Execute code in isolated environments when needed | Sandbox backends, secure execution, remote runtime options |
+| **⚡ [Streaming](https://docs.langchain.com/oss/python/deepagents/streaming)** | Stream intermediate output and agent progress in real time | Live progress updates, streamed responses, responsive UX |
+| **🛠️ [Skills](https://docs.langchain.com/oss/python/deepagents/skills)** | Extend agents with reusable, task-specific expertise | Skill directories, progressive disclosure, custom instructions |
+
 </details>
 
 <details>
-<summary><strong>▫️ LangGraph llms.txt Files ▫️</strong></summary>
+<summary><strong> ▫️ Deep Agents SDK and CLI ▫️</strong></summary>
 
-**AI-accessible documentation format for LLMs and IDEs** - Documentation files in llms.txt format that allow large language models and agents to access programming documentation and APIs, particularly useful within integrated development environments.
+| Package | Python | TypeScript | Description |
+|---------|--------|------------|-------------|
+| **Deep Agents SDK** | [`deepagents`](https://github.com/langchain-ai/deepagents) | [`deepagents`](https://github.com/langchain-ai/deepagents) | Standalone open-source library for building agents with planning, subagents, filesystem tools, and long-term memory |
+| **Deep Agents CLI** | [CLI Docs](https://docs.langchain.com/oss/python/deepagents/cli/overview) | [CLI Docs](https://docs.langchain.com/oss/javascript/deepagents/cli/overview) | Open-source terminal coding agent built on the Deep Agents SDK |
 
-### Available Files
+</details>
 
-| Language | llms.txt | llms-full.txt |
-|----------|----------|---------------|
-| **Python** | [langchain-ai.github.io/langgraph/llms.txt](https://langchain-ai.github.io/langgraph/llms.txt) | [langchain-ai.github.io/langgraph/llms-full.txt](https://langchain-ai.github.io/langgraph/llms-full.txt) |
-| **JavaScript** | [langchain-ai.github.io/langgraphjs/llms.txt](https://langchain-ai.github.io/langgraphjs/llms.txt) | [langchain-ai.github.io/langgraphjs/llms-full.txt](https://langchain-ai.github.io/langgraphjs/llms-full.txt) |
+<details>
+<summary><strong> ▫️ Deep Agents Documentation and llms.txt Files ▫️</strong></summary>
 
-### Format Differences
-- **`llms.txt`** - Index file with links and brief descriptions requiring navigation for detailed information
-- **`llms-full.txt`** - Complete content in a single file, but may exceed LLM context windows
+Access the official Deep Agents documentation across the current unified open source docs:
 
-### Usage with IDEs
-**With IDEs (Cursor, Windsurf)**: Add `llms-full.txt` as custom documentation. The IDE automatically chunks and indexes content using RAG.
+<div align="center">
 
-**With MCP Server**: Use the [mcpdoc server](https://github.com/langchain-ai/mcpdoc) to integrate `llms.txt` into tools like Cursor, Windsurf, Claude, and Claude Code.
+| Docs | Python | JavaScript | Notes |
+|------|--------|------------|-------|
+| **Current Open Source Docs** | [Overview](https://docs.langchain.com/oss/python/deepagents/overview) | [Overview](https://docs.langchain.com/oss/javascript/deepagents/overview) | Current Deep Agents OSS docs on `docs.langchain.com` |
+| **Quickstart** | [Quickstart](https://docs.langchain.com/oss/python/deepagents/quickstart) | [Quickstart](https://docs.langchain.com/oss/javascript/deepagents/quickstart) | Build a first deep agent with tools, planning, and memory |
+| **CLI** | [CLI Overview](https://docs.langchain.com/oss/python/deepagents/cli/overview) | [CLI Overview](https://docs.langchain.com/oss/javascript/deepagents/cli/overview) | Terminal coding agent built on the Deep Agents SDK |
 
-> **⚠️ Review Output**: Even with up-to-date documentation, current models may not always generate correct code. Always review generated code before production use.
+</div>
+
+**AI-accessible documentation format for LLMs and IDEs** - Deep Agents documentation is available through the same unified `docs.langchain.com` docs index used across the LangChain ecosystem.
+
+| Scope | llms.txt | llms-full.txt |
+|-------|----------|---------------|
+| **Unified LangChain Docs** | [docs.langchain.com/llms.txt](https://docs.langchain.com/llms.txt) | N/A |
 
 </details>
 
@@ -313,7 +344,7 @@ Access the official LangGraph documentation across different languages:
 
 </div>
 
-**LangSmith** is a platform for building production-grade LLM applications with comprehensive observability, evaluation, and prompt engineering capabilities. It's framework agnostic and works with or without LangChain's open source frameworks.
+**LangSmith** is a framework-agnostic platform for building, debugging, evaluating, and deploying AI agents and LLM applications. It works with or without LangChain's open-source frameworks and brings observability, prompt engineering, deployment, and operational tooling into one workflow.
 
 
 
@@ -323,10 +354,13 @@ Access the official LangGraph documentation across different languages:
 
 | Feature | Description | Key Capabilities |
 |---------|-------------|-----------------|
-| **📊 Tracing** | Gain visibility into each step your application takes | Debug faster, understand application flow, execution monitoring |
-| **📈 Evaluation** | Measure quality of applications over time | Automated testing, quality measurement, performance tracking |
-| **✏️ Prompt Testing** | Iterate on prompts with version control | Prompt optimization, collaboration, automatic versioning |
-| **🏢 Workspace Management** | Team collaboration and project organization | Admin settings, team collaboration, project configuration |
+| **🚀 [Deployment](https://docs.langchain.com/langsmith/deployment)** | Deploy agents as production-ready Agent Servers | Managed deployment, scaling, agent runtime, production hosting |
+| **📊 [Observability](https://docs.langchain.com/langsmith/observability)** | Gain visibility into each step your application takes to debug faster and improve reliability | Tracing, dashboards, alerts, insights, automations |
+| **📈 [Evaluation](https://docs.langchain.com/langsmith/evaluation)** | Measure and track application quality over time | Offline experiments, online evaluators, LLM-as-judge, evaluator tooling |
+| **✏️ [Prompt Engineering](https://docs.langchain.com/langsmith/prompt-engineering)** | Iterate on prompts with built-in versioning and collaboration | Prompt testing, versioning, collaboration, commit history |
+| **🧪 [Studio](https://docs.langchain.com/langsmith/studio)** | Design, test, and refine applications end-to-end in a visual interface | Visual development, prompt iteration, debugging workflows |
+| **🛡️ [Sandboxes](https://docs.langchain.com/langsmith/sandboxes)** | Run code and tools in isolated execution environments | Secure execution, sandbox SDK, controlled runtime environments |
+| **🏢 Platform Setup** | Configure LangSmith for cloud, hybrid, or self-hosted usage | Admin controls, compliance, data governance, infrastructure options |
 
 </details>
 
@@ -340,155 +374,98 @@ Access the official LangGraph documentation across different languages:
 </details>
 
 <details>
-<summary><strong>🔹 LangSmith Documentation 🔹</strong></summary>
+<summary><strong>🔹 LangSmith Documentation and llms.txt Files 🔹</strong></summary>
 
 Access the official LangSmith platform documentation:
 
 <div align="center">
 
-| Platform | Documentation |
-|----------|---------------|
-| **LangSmith** | [Platform Docs](https://docs.langchain.com/langsmith/home) |
+| Docs Area | Documentation | Notes |
+|-----------|---------------|-------|
+| **Overview** | [LangSmith Docs](https://docs.langchain.com/langsmith/home) | Main entrypoint for the LangSmith platform |
+| **Deployment** | [Deployment](https://docs.langchain.com/langsmith/deployment) | Deploy agents as Agent Servers in production |
+| **Observability** | [Observability](https://docs.langchain.com/langsmith/observability) | Tracing, dashboards, alerts, and monitoring workflows |
+| **Evaluation** | [Evaluation](https://docs.langchain.com/langsmith/evaluation) | Offline and online evaluation workflows for AI systems |
+| **Prompt Engineering** | [Prompt Engineering](https://docs.langchain.com/langsmith/prompt-engineering) | Prompt iteration, testing, and versioning |
+| **Studio** | [Studio](https://docs.langchain.com/langsmith/studio) | Visual interface for building and refining apps |
+| **Sandboxes** | [Sandboxes](https://docs.langchain.com/langsmith/sandboxes) | Isolated execution environments for tools and code |
+| **Agent Server** | [Agent Server](https://docs.langchain.com/langsmith/agent-server) | Runtime and API surface for deployed agents |
 
 </div>
+
+**AI-accessible documentation format for LLMs and IDEs** - LangSmith is also covered by the unified `docs.langchain.com` docs index for programmatic access.
+
+| Scope | llms.txt | llms-full.txt |
+|-------|----------|---------------|
+| **Unified LangChain Docs** | [docs.langchain.com/llms.txt](https://docs.langchain.com/llms.txt) | N/A |
+
 </details>
 
 <n></n>
 
 > [!TIP]
-> **Get started with LangSmith for free!** Sign up at [langchain.com/langsmith](https://www.langchain.com/langsmith) and follow the [quickstart guide](https://docs.langchain.com/langsmith/observability-quickstart) to add tracing and monitoring to your LLM applications in minutes.
+> **Get started with LangSmith for free!** Sign up at [langchain.com/langsmith](https://www.langchain.com/langsmith) and follow the [deployment quickstart](https://docs.langchain.com/langsmith/deployment-quickstart), [observability quickstart](https://docs.langchain.com/langsmith/observability-quickstart), or [evaluation quickstart](https://docs.langchain.com/langsmith/evaluation-quickstart) depending on where you want to start.
 
 <n></n>
-
-
 
 ---
 
 <div align="center">
 
-## 🦜 LangGraph Platform 🚀
+## 🧩 LangSmith Fleet
 
 </div>
 
-**LangGraph Platform** is a comprehensive solution for deploying and managing agentic applications at scale. It provides production-ready infrastructure, developer tools, and management capabilities for LangGraph applications.
+**LangSmith Fleet** is a no-code workspace for building AI agents for real work. Start from a template or describe your goal in plain English, connect tools like Gmail, Google Calendar, Slack, Exa, Tavily, and remote MCP servers, and let the agent automate routine workflows while keeping humans in control.
+
+<details>
+<summary><strong>🔹 Core Features 🔹</strong></summary>
+
+| Feature | Description | Key Capabilities |
+|---------|-------------|-----------------|
+| **🧱 [No-Code Agent Builder](https://docs.langchain.com/langsmith/fleet)** | Create and manage agents without writing code | Template-based setup, AI-assisted configuration, editable instructions |
+| **🔌 [Connected Tools](https://docs.langchain.com/langsmith/fleet/tools)** | Bring context and actions into agents through app integrations | Gmail, Google Calendar, Slack, Tavily, Exa, remote MCP servers |
+| **📡 [Channels](https://docs.langchain.com/langsmith/fleet/channels)** | Use agents where your team already works | Slack and Microsoft Teams integrations, in-channel workflows |
+| **🗓️ [Schedules](https://docs.langchain.com/langsmith/fleet/schedules)** | Run recurring tasks automatically | Daily briefings, recurring reports, timed automations |
+| **✅ [Access & Oversight](https://docs.langchain.com/langsmith/fleet/access-and-oversight)** | Keep humans in control for important operations | Approval flows, oversight controls, safer automation |
+| **🛠️ [Skills](https://docs.langchain.com/langsmith/fleet/skills)** | Extend agents with reusable task-specific behavior | Specialized instructions, reusable workflows, scoped capabilities |
+
+</details>
+
+<details>
+<summary><strong>🔹 LangSmith Fleet Documentation 🔹</strong></summary>
+
+Access the official LangSmith Fleet documentation:
 
 <div align="center">
-  <img src="static/langgraph_platform.png" width="500" alt="LangGraph Platform">
-  <p><sub>Source: <a href="https://docs.langchain.com/langgraph-platform/overview/">LangGraph Platform Documentation</a></sub></p>
+
+| Docs Area | Documentation | Notes |
+|-----------|---------------|-------|
+| **Overview** | [LangSmith Fleet](https://docs.langchain.com/langsmith/fleet) | Main entrypoint for Fleet |
+| **Quickstart** | [Quickstart](https://docs.langchain.com/langsmith/fleet/quickstart) | Build your first Fleet agent |
+| **Essentials** | [Essentials](https://docs.langchain.com/langsmith/fleet/essentials) | Connections, automation, memory, and approvals |
+| **Templates** | [Templates](https://docs.langchain.com/langsmith/fleet/templates) | Browse ready-made starter agents and customize them |
+| **Tools** | [Tools](https://docs.langchain.com/langsmith/fleet/tools) | Connect apps and services to your agents |
+| **Channels** | [Channels](https://docs.langchain.com/langsmith/fleet/channels) | Use Fleet in Slack and Teams workflows |
+| **Schedules** | [Schedules](https://docs.langchain.com/langsmith/fleet/schedules) | Trigger recurring tasks and automations |
+
 </div>
-
-*In the dropdowns below, you'll find a summary of each component's key concepts and links to the official documentation.*
-
-<details>
-<summary><strong>🔺 LangGraph Server 🔺</strong></summary>
-
-**API platform for creating and managing agent-based applications.** Built on the concept of assistants (agents configured for specific tasks) with built-in persistence and task queue for production deployments.
-
-**Key Features:**
-- Agent management (assistants, threads, runs)
-- Built-in persistence with PostgreSQL
-- Task queue with Redis
-- Background processing and real-time interactions
-- Cron jobs and webhooks support
-- Enterprise deployment options (Cloud, Hybrid, Self-hosted)
-
-**Documentation:** [LangGraph Server](https://docs.langchain.com/langgraph-platform/langgraph-server)
-
 </details>
 
 <details>
-<summary><strong> 🔺LangGraph CLI 🔺</strong></summary>
+<summary><strong>🔹 Fleet Templates 🔹</strong></summary>
 
-**Multi-platform command-line tool for building and running LangGraph API servers locally.** Includes all API endpoints and services required for agent development and deployment.
+Fleet includes ready-made templates for practical workflows such as:
 
-**Key Commands:**
-- `langgraph build` - Build Docker images for deployment
-- `langgraph dev` - Start lightweight development server
-- `langgraph up` - Start local Docker container instance
-- `langgraph dockerfile` - Generate custom Dockerfiles
+- Daily calendar brief
+- Email assistant
+- LinkedIn recruiter
+- Social media AI monitor
+- Competitor research
 
-**Documentation:** [LangGraph CLI](https://docs.langchain.com/langgraph-platform/langgraph-cli)
+Browse the full template catalog here:
 
-</details>
-
-<details>
-<summary><strong>🔺 LangGraph Studio 🔺</strong></summary>
-
-**Specialized agent IDE for visualization, interaction, and debugging of agentic systems.** Connects to LangGraph Server and integrates with LangSmith for comprehensive development experience.
-
-**Key Features:**
-- Graph architecture visualization
-- Interactive agent testing and debugging
-- Assistant and thread management
-- Prompt iteration and experimentation
-- Time travel debugging and state inspection
-- LangSmith integration for tracing and evaluation
-
-**Documentation:** [LangGraph Studio](https://docs.langchain.com/langgraph-platform/langgraph-studio)
-
-</details>
-
-<details>
-<summary><strong>🔺 Python/JS SDK 🔺</strong></summary>
-
-**Programmatic interfaces for interacting with deployed LangGraph applications.** Provides both synchronous and asynchronous clients for comprehensive API access.
-
-**Key Features:**
-- Full API access to LangGraph Server
-- Synchronous and asynchronous client support
-- TypeScript support with type safety
-- React hooks for frontend integration
-- State management and streaming support
-
-**Documentation:** [Python SDK](https://docs.langchain.com/langgraph-platform/sdk) | [JavaScript SDK](https://docs.langchain.com/langgraph-platform/reference-overview)
-
-</details>
-
-<details>
-<summary><strong>🔺 Remote Graph 🔺</strong></summary>
-
-**Interface for interacting with deployed LangGraph applications as if they were running locally.** Seamlessly bridge local development with production deployments.
-
-**Key Features:**
-- Local-like interaction with remote deployments
-- Compatible with existing LangGraph APIs
-- Assistant and graph ID support
-- Transparent remote execution
-- Development workflow integration
-
-**Documentation:** [Remote Graph](https://docs.langchain.com/langgraph-platform/use-remote-graph)
-
-</details>
-
-<details>
-<summary><strong>🔺 Control Plane 🔺</strong></summary>
-
-**Management interface for creating and updating LangGraph Server deployments.** Provides UI and APIs for deployment configuration and administration.
-
-**Key Features:**
-- Deployment creation and management
-- Configuration and environment settings
-- Database provisioning (automatic PostgreSQL setup)
-- Team collaboration and access control
-- API orchestration for CI/CD workflows
-
-**Documentation:** [Control Plane](https://docs.langchain.com/langgraph-platform/control-plane)
-
-</details>
-
-<details>
-<summary><strong>🔺 Data Plane 🔺</strong></summary>
-
-**Runtime infrastructure encompassing LangGraph Servers and supporting components.** Includes all infrastructure required for production agent deployments.
-
-**Key Infrastructure:**
-- LangGraph Server instances
-- PostgreSQL databases for persistence
-- Redis for task queue management
-- Secrets store and autoscalers
-- Listener applications for Control Plane updates
-
-**Documentation:** [Data Plane](https://docs.langchain.com/langgraph-platform/data-plane)
+[LangSmith Fleet Templates](https://docs.langchain.com/langsmith/fleet/templates)
 
 </details>
 
@@ -517,42 +494,42 @@ Access the official LangSmith platform documentation:
 </details>
 
 <details>
-<summary><strong>🔸 Embedding Models 🔸</strong></summary>
-
-**Transform raw text into fixed-length vectors that capture semantic meaning.** Enable machines to compare and search text based on meaning rather than exact words. Essential for RAG applications and semantic search.
-
-- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/text_embedding)
-- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/text_embedding)
-
-</details>
-
-<details>
-<summary><strong>🔸 Vector Stores 🔸</strong></summary>
-
-**Databases optimized for storing and querying high-dimensional vectors using similarity metrics.** Used with embedding models to enable semantic search, document retrieval, and knowledge base applications.
-
-- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/vectorstores)
-- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/vectorstores)
-
-</details>
-
-<details>
-<summary><strong>🔸 Document Loaders 🔸</strong></summary>
-
-**Integrations for ingesting data from hundreds of sources.** Including PDFs, websites, databases, APIs, and cloud services. Transform diverse data formats into LangChain Document objects for processing.
-
-- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/document_loaders)
-- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/document_loaders)
-
-</details>
-
-<details>
 <summary><strong>🔸 Tools & Toolkits 🔸</strong></summary>
 
-**Enable agents to interact with external systems.** Define input schemas for tool calling and executing actions. Support web search, database queries, file operations, and API integrations.
+**Enable agents to interact with external systems.** Define input schemas for tool calling and executing actions. Support web search, database queries, file operations, browser control, and API integrations.
 
 - **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/tools)
 - **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/tools)
+
+</details>
+
+<details>
+<summary><strong>🔸 Middleware 🔸</strong></summary>
+
+**Control and customize agent execution at every step.** Add logging, retries, guardrails, human approval, rate limiting, prompt transforms, and other execution-time behavior.
+
+- **Python**: [Browse middleware](https://docs.langchain.com/oss/python/langchain/middleware/overview)
+- **JavaScript**: [Browse middleware](https://docs.langchain.com/oss/javascript/langchain/middleware/overview)
+
+</details>
+
+<details>
+<summary><strong>🔸 Sandboxes 🔸</strong></summary>
+
+**Run agent-generated code in isolated execution environments.** Sandboxes provide safer boundaries for shell access, filesystem operations, and code execution.
+
+- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/sandboxes)
+- **JavaScript**: -
+
+</details>
+
+<details>
+<summary><strong>🔸 Checkpointers 🔸</strong></summary>
+
+**Persistence backends for LangGraph state.** Save and resume agent state across interactions using in-memory, SQL, Redis, MongoDB, cloud, and other checkpoint stores.
+
+- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/checkpointers)
+- **JavaScript**: -
 
 </details>
 
@@ -571,25 +548,40 @@ Access the official LangSmith platform documentation:
 
 **Break large documents into smaller, manageable chunks.** Maintain semantic coherence while fitting within model context windows. Essential for RAG pipelines and document processing workflows.
 
-- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/text_splitters)
-- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/text_splitters)
+- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/splitters)
+- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/splitters)
 
 </details>
 
 <details>
-<summary><strong>🔸 Key-Value Stores 🔸</strong></summary>
+<summary><strong>🔸 Embedding Models 🔸</strong></summary>
 
-**Simple storage interfaces for caching and state management.** Support caching embeddings, storing application state, and managing key-value data with various backends including Redis, file systems, and in-memory storage.
+**Transform raw text into fixed-length vectors that capture semantic meaning.** Enable machines to compare and search text based on meaning rather than exact words. Essential for retrieval, semantic search, and ranking workflows.
 
-- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/stores)
-- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/stores)
+- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/text_embedding)
+- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/text_embedding)
 
 </details>
 
-> [!TIP]
-> **Easy Installation**: You can easily install integration packages using:
-> - **Python**: `pip install langchain-{provider}` (e.g., `langchain-openai`, `langchain-anthropic`)  
-> - **JavaScript**: `npm install @langchain/{provider}` (e.g., `@langchain/openai`, `@langchain/anthropic`)
+<details>
+<summary><strong>🔸 Vector Stores 🔸</strong></summary>
+
+**Databases optimized for storing and querying high-dimensional vectors using similarity metrics.** Used with embedding models to power semantic search, retrieval, and knowledge base applications.
+
+- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/vectorstores)
+- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/vectorstores)
+
+</details>
+
+<details>
+<summary><strong>🔸 Document Loaders 🔸</strong></summary>
+
+**Integrations for ingesting data from files, websites, databases, APIs, and cloud systems.** Transform diverse sources into LangChain `Document` objects for downstream processing.
+
+- **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/document_loaders)
+- **JavaScript**: [Browse providers](https://docs.langchain.com/oss/javascript/integrations/document_loaders)
+
+</details>
 
 <n></n>
 

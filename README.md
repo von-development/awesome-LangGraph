@@ -6,6 +6,7 @@
 
 Whether you’re prototyping your first workflow or operating production systems, this list maps the full lifecycle of agent development, from **building** with core libraries and integrations, to **observing** runs with platform tooling, **evaluating** quality and behavior, and **deploying** reliable agent applications.
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
 **What you’ll find**
 - Core frameworks: LangChain, LangGraph, Deep Agents, and LangSmith
 - Resources for building, observing, evaluating, and deploying agent systems

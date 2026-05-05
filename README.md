@@ -3,6 +3,7 @@
 # 🦜🕸️ Awesome LangGraph & LangChain Ecosystem ![Awesome](https://awesome.re/badge.svg) ![Last Updated](https://img.shields.io/github/last-commit/von-development/awesome-LangGraph)
 
 > The definitive index of frameworks, templates, and real-world projects for teams that want to **build, observe, evaluate, and deploy** stateful, tool-using AI agents with the LangChain + LangGraph stack.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents — tracks Gateway health, token usage, and message trends
 
 Whether you’re prototyping your first workflow or operating production systems, this list maps the full lifecycle of agent development, from **building** with core libraries and integrations, to **observing** runs with platform tooling, **evaluating** quality and behavior, and **deploying** reliable agent applications.
 
